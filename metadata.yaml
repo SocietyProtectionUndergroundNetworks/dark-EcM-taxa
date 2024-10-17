@@ -1,0 +1,3421 @@
+---
+key: 303642
+doi: 10.48580/dgh3g
+title: Catalogue of Life
+alias: COL24.9
+description: "The Catalogue of Life is an assembly of expert-based global species\
+  \ checklists with the aim to build a comprehensive catalogue of all known species\
+  \ of organisms on Earth. Continuous progress is made towards completion, but for\
+  \ now, it probably includes just over 80% of the world's known species. The Catalogue\
+  \ of Life estimates 2.3M extant species on the planet recognised by taxonomists\
+  \ at present time. This means that for many groups it continues to be deficient,\
+  \ and users may notice that many species are still missing from the Catalogue.\n\
+  \n### What's new in September 2024 edition?\n\n#### 86 checklists have been updated:\n\
+  \n* 3i Auchenorrhyncha\n* Bryonames\n* Entiminae\n* Gelechiidae\n* ITIS \n* Scarabs\n\
+  * SF Aphid\n* SF Chrysididae\n* SF Coreoidea\n* SF Dermaptera\n* SF Embioptera\n\
+  * SF Isoptera \n* SF Lygaeoidea \n* SF Mantodea \n* SF Orthoptera \n* SF Phasmida\
+  \ \n* SF Plecoptera \n* SF Psocodea \n* TITAN\n* WCO \n* WOL \n* WoRMS, 65 checklists\n\
+  \n####Other changes:\n* WCVP Lamiaceae was re-synced"
+issued: 2024-09-25
+version: 2024-09-25
+issn: 2405-8858
+contact:
+  city: Amsterdam
+  country: NL
+  email: support@catalogueoflife.org
+  address: "Amsterdam, Netherlands"
+  organisation: COL Secretariat
+creator:
+ -
+  orcid: 0000-0001-6197-9951
+  given: Olaf
+  family: Bánki
+  city: Amsterdam
+  country: NL
+  note: COL Managing Director
+  address: "Amsterdam, Netherlands"
+  organisation: Catalogue of Life
+ -
+  orcid: 0000-0003-2137-2690
+  given: Yury
+  family: Roskov
+  city: Champaign
+  state: IL
+  country: US
+  note: COL Executive Editor
+  address: "Champaign, IL, United States of America"
+  organisation: Illinois Natural History Survey
+ -
+  orcid: 0000-0001-7757-1889
+  given: Markus
+  family: Döring
+  rorid: 05fjyn938
+  city: Berlin
+  country: DE
+  note: COL Lead Developer
+  address: "Berlin, Germany"
+  organisation: GBIF
+ -
+  orcid: 0000-0002-9770-2345
+  given: Geoff
+  family: Ower
+  city: Champaign
+  state: IL
+  country: US
+  note: COL Data Manager
+  address: "Champaign, IL, United States of America"
+  organisation: Illinois Natural History Survey
+ -
+  orcid: 0000-0002-3951-4856
+  given: Diana Raquel
+  family: Hernández Robles
+  city: Mexico City
+  country: MX
+  note: COL Editor
+  address: "Mexico City, Mexico"
+  organisation: Catalogue of Life
+ -
+  orcid: 0000-0002-1632-9818
+  given: Camila Andrea
+  family: Plata Corredor
+  city: Bogotá
+  country: CO
+  note: COL Editor
+  address: "Bogotá, Colombia"
+  organisation: Catalogue of Life
+ -
+  orcid: 0000-0003-1691-239X
+  given: Thomas
+  family: Stjernegaard Jeppesen
+  rorid: 05fjyn938
+  city: Copenhagen
+  country: DK
+  note: COL UI Developer
+  address: "Copenhagen, Denmark"
+  organisation: GBIF
+ -
+  given: Ari
+  family: Örn
+  country: FI
+  note: ColDP Quality Assurance checks
+  address: Finland
+  organisation: Volunteer for Catalogue of Life
+ -
+  orcid: 0000-0002-8160-7941
+  given: Leen
+  family: Vandepitte
+  city: Oostende
+  country: BE
+  note: Global Team Chair
+  address: "Oostende, Belgium"
+  organisation: Vlaams Instituut voor de Zee (VLIZ)
+ -
+  orcid: 0000-0001-6609-0609
+  given: Thomas
+  family: Pape
+  department: Natural History Museum of Denmark
+  city: Copenhagen
+  country: DK
+  note: "Global Team Vice Chair, Taxonomy Group; Systema Dipterorum"
+  address: "Copenhagen, Denmark"
+  organisation: University of Copenhagen
+ -
+  orcid: 0000-0001-6492-4016
+  given: Donald
+  family: Hobern
+  city: Canberra
+  country: AU
+  note: Taxonomy Group Chair; Pterophoroidea; Pterophoroidea; Alucitoidea; Alucitoidea;
+    Gelechiidae; Gelechiidae; GLI; GLI; Hepialidae
+  address: "Canberra, Australia"
+  organisation: Catalogue of Life Australia
+ -
+  orcid: 0000-0002-0724-7060
+  given: Stephen
+  family: Garnett
+  city: Darwin
+  country: AU
+  note: Species list Governance group Chair
+  address: "Darwin, Australia"
+  organisation: Charles Darwin University
+ -
+  orcid: 0000-0001-7909-4166
+  given: Holly
+  family: Little
+  city: Washington DC
+  country: US
+  note: Paleo group chair
+  address: "Washington DC, United States of America"
+  organisation: Smithsonian Institution
+ -
+  orcid: 0000-0001-9985-9250
+  given: R. Edward
+  family: DeWalt
+  city: Champaign
+  state: IL
+  country: US
+  note: Catalogue of Life Chair; Author; SF Plecoptera
+  address: "Champaign, IL, United States of America"
+  organisation: Illinois Natural History Survey
+ -
+  orcid: 0000-0001-9112-5340
+  given: Keping
+  family: Ma
+  city: Beijing
+  country: CN
+  address: "Beijing, China"
+  organisation: Chinese Academy of Sciences
+ -
+  orcid: 0000-0002-5788-9010
+  given: Joe
+  family: Miller
+  city: Copenhagen
+  country: DK
+  note: COL+ Partnership
+  address: "Copenhagen, Denmark"
+  organisation: GBIF
+ -
+  orcid: 0000-0003-1038-3028
+  given: Thomas
+  family: Orrell
+  city: "Washington, D.C."
+  country: US
+  note: COL Partnership; ITIS
+  address: "Washington, D.C., United States of America"
+  organisation: Smithsonian Institution
+ -
+  given: Rolf
+  family: Aalbu
+  city: San Francisco
+  country: US
+  note: Sepidiini tribe
+  address: "San Francisco, United States of America"
+  organisation: California Academy of Sciences
+ -
+  orcid: 0000-0002-6773-3976
+  given: John
+  family: Abbott
+  department: UA Museums
+  city: Tuscaloosa
+  state: Alabama
+  country: US
+  email: jabbott1@ua.edu
+  url: https://museums.ua.edu/people/john-abbott/
+  note: WOL
+  address: "Tuscaloosa, Alabama, United States of America"
+  organisation: The University of Alabama
+ -
+  given: Carlos
+  family: Aedo
+  city: Madrid
+  country: ES
+  note: RJB Geranium
+  address: "Madrid, Spain"
+  organisation: "Real Jardín Botánico de Madrid, CSIC"
+ -
+  given: E.
+  family: Aescht
+  note: CilCat
+ -
+  orcid: 0009-0006-7572-6473
+  given: Sara
+  family: Alexander
+  email: alexandersar@si.edu
+  note: ITIS
+ -
+  orcid: 0000-0002-6991-0980
+  given: Miguel A.
+  family: Alonso-Zarazaga
+  city: Madrid
+  country: ES
+  email: mcnaz39@mncn.csic.es
+  note: WTaxa
+  address: "Madrid, Spain"
+  organisation: Museo Nacional de Ciencias Naturales
+ -
+  given: Belinda
+  family: Alvarez
+  email: Belinda.glasby@gmail.com
+  note: WoRMS Porifera
+ -
+  orcid: 0000-0001-6369-6269
+  given: Giovani Carlos
+  family: Andrella
+  note: WCVP-Fabaceae
+ -
+  given: Lucas Silveira
+  family: Antonietto
+  email: antoniettols@gmail.com
+  note: WoRMS Ostracoda
+ -
+  given: Claudia
+  family: Arango
+  email: claudia.arango@qm.qld.gov.au
+  note: WoRMS Pycnogonida
+ -
+  orcid: 0000-0002-2491-7273
+  given: Tom
+  family: Artois
+  email: tom.artois@uhasselt.be
+  note: WoRMS Turbellarians
+ -
+  given: Margoth
+  family: Atahuachi Burgos
+  note: WCVP-Fabaceae
+ -
+  given: Stephen
+  family: Atkinson
+  email: atkinsos@science.oregonstate.edu
+  note: WoRMS Myxozoa
+ -
+  orcid: 0000-0002-8646-6711
+  given: John J.
+  family: Atwood
+  rorid: 04tzy5g14
+  city: St. Louis
+  state: MO
+  country: US
+  email: john.atwood@mobot.org
+  note: Bryonames
+  address: "St. Louis, MO, United States of America"
+  organisation: Missouri Botanical Garden
+ -
+  orcid: 0000-0002-5911-8797
+  given: Ângela Lúcia
+  family: Bagnatori Sartori
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0003-4994-0653
+  given: Nicolas
+  family: Bailly
+  department: Beaty Biodiversity Museum
+  city: Vancouver
+  country: CA
+  note: Taxonomy Group
+  address: "Vancouver, Canada"
+  organisation: University of British Columbia
+ -
+  orcid: 0000-0002-6092-0496
+  given: Joaquín
+  family: Baixeras
+  rorid: 043nxc105
+  department: Department of Zoology
+  city: Paterna
+  state: València
+  email: joaquin.baixeras@uv.es
+  note: Tortricid.net
+  address: "Paterna, València"
+  organisation: Universitat de València
+ -
+  orcid: 0000-0002-5887-9543
+  given: Edward
+  family: Baker
+  rorid: 039zvsn29
+  city: London
+  country: GB
+  note: SF Phasmida; SF Chrysididae
+  address: "London, United Kingdom"
+  organisation: The Natural History Museum
+ -
+  given: Anoop
+  family: Balan
+  note: WCVP-Fabaceae
+ -
+  given: Roger
+  family: Bamber
+  note: WoRMS Pycnogonida
+ -
+  orcid: 0000-0003-0260-6594
+  given: Subir
+  family: Bandyopadhyay
+  note: WCVP-Fabaceae
+ -
+  given: H.
+  family: Barber-James
+  note: FADA Ephemeroptera
+ -
+  orcid: 0000-0002-9802-8516
+  given: Rafael
+  family: Barbosa Pinto
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0003-0360-8321
+  given: Russell
+  family: Barrett
+  note: WCVP-Fabaceae
+ -
+  given: L.
+  family: Bartolozzi
+  note: Brentids
+ -
+  given: I.
+  family: Bartsch
+  note: FADA Halacaridae
+ -
+  orcid: 0000-0003-0323-8535
+  given: George
+  family: Beccaloni
+  rorid: 039zvsn29
+  city: London
+  country: GB
+  url: https://www.nhm.ac.uk/
+  note: GLI
+  address: "London, United Kingdom"
+  organisation: Natural History Museum
+ -
+  given: C.L.
+  family: Bellamy
+  note: Jewel Beetles
+ -
+  given: Denise
+  family: Bellan-Santini
+  email: denise.bellan@univ-amu.fr
+  note: WoRMS Amphipoda
+ -
+  given: P.F.
+  family: Bellinger
+  note: Collembola.org
+ -
+  given: Yair
+  family: Ben-Dov
+  city: Bet Dagan
+  country: IL
+  note: ScaleNet
+  address: "Bet Dagan, Israel"
+  organisation: Agricultural Research Organization
+ -
+  given: Isabel
+  family: Blasco-Costa
+  email: isabel.blasco-costa@ville-ge.ch
+  note: WoRMS Trematoda
+ -
+  orcid: 0000-0003-1250-4874
+  given: James S.
+  family: Boatwright
+  note: WCVP-Fabaceae
+ -
+  given: Phil
+  family: Bock
+  email: philbock1@gmail.com
+  note: WoRMS Bryozoa
+ -
+  orcid: 0000-0001-9269-7316
+  given: Leonardo M.
+  family: Borges
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0002-7445-7244
+  given: Roseli
+  family: Bortoluzzi
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0001-8382-9508
+  given: Robert L.
+  family: Bossard
+  city: Salt Lake City
+  state: Utah
+  country: US
+  email: bossardtech@gmail.com
+  note: LWS fleas
+  address: "Salt Lake City, Utah, United States of America"
+  organisation: Bossard Consulting
+ -
+  orcid: 0000-0002-6555-7913
+  given: Cornelio
+  family: Bota-Sierra
+  department: 'Grupo de Entomología '
+  city: Medellin
+  country: CO
+  email: corneliobota@gmail.com
+  note: WOL
+  address: "Medellin, Colombia"
+  organisation: Universidad de Antioquia
+ -
+  given: Patrice
+  family: Bouchard
+  city: Ottawa
+  country: CA
+  note: Sepidiini tribe
+  address: "Ottawa, Canada"
+  organisation: Agriculture and Agri-Food Canada
+ -
+  given: T.
+  family: Bourgoin
+  city: Paris
+  country: FR
+  note: FLOW
+  address: "Paris, France"
+  organisation: Muséum National d'Histoire Naturelle
+ -
+  given: Nicole
+  family: Boury-Esnault
+  email: info@marinespecies.org
+  note: WoRMS Porifera
+ -
+  orcid: 0000-0001-8170-7734
+  given: Geoff
+  family: Boxshall
+  email: g.boxshall@nhm.ac.uk
+  note: WoRMS Bochusacea; WoRMS Brachypoda; WoRMS Mystacocarida; WoRMS Tantulocarida;
+    WoRMS Merostomata; WoRMS Copepoda
+ -
+  orcid: 0000-0002-2205-1488
+  given: Christopher
+  family: Boyko
+  email: cboyko@amnh.org
+  note: WoRMS Isopoda
+ -
+  orcid: 0000-0002-3487-6129
+  given: Simone
+  family: Brandão
+  email: brandao.sn.100@gmail.com
+  note: WoRMS Ostracoda
+ -
+  orcid: 0000-0002-1069-8794
+  given: Holger
+  family: Braun
+  rorid: 01tjs6929
+  department: División Entomología
+  city: La Plata
+  country: AR
+  note: SF Orthoptera
+  address: "La Plata, Argentina"
+  organisation: "Museo de La Plata, CEPAVE - CONICET"
+ -
+  given: Rod
+  family: Bray
+  email: r.bray@nhm.ac.uk
+  note: WoRMS Cestoda; WoRMS Trematoda
+ -
+  orcid: 0000-0002-7599-2847
+  given: Gunnar
+  family: Brehm
+  rorid: 05qpz1x62
+  department: Phyletisches Museum
+  city: Jena
+  country: DE
+  url: https://www.uni-jena.de/en
+  note: Geometridae
+  address: "Jena, Germany"
+  organisation: Friedrich-Schiller Universität Jena
+ -
+  orcid: 0000-0001-9083-1235
+  given: John C.
+  family: Brinda
+  rorid: 04tzy5g14
+  city: St. Louis
+  state: MO
+  country: US
+  email: john.brinda@mobot.org
+  note: Bryonames
+  address: "St. Louis, MO, United States of America"
+  organisation: Missouri Botanical Garden
+ -
+  given: Paul D
+  family: Brock
+  city: London
+  country: GB
+  note: SF Phasmida; SF Phasmida
+  address: "London, United Kingdom"
+  organisation: The Natural History Museum
+ -
+  given: Steven L.
+  family: Broich
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0001-5610-9855
+  given: John
+  family: Brown
+  rorid: 00cz47042
+  department: Department of Entomology
+  city: Washington
+  state: DC
+  country: US
+  email: tortricidae.jwb@gmail.com
+  note: Tortricid.net
+  address: "Washington, DC, United States of America"
+  organisation: "National Museum of Natural History, Smithsonian Institution"
+ -
+  orcid: 0000-0001-7112-421X
+  given: Samuel
+  family: Brown
+  rorid: 048r72142
+  city: Auckland
+  country: NZ
+  email: samuel.brown@plantandfood.co.nz
+  note: Entiminae
+  address: "Auckland, New Zealand"
+  organisation: The New Zealand Institute for Plant & Food Research Limited
+ -
+  given: Niel
+  family: Bruce
+  email: niel.bruce@qm.qld.gov.au
+  note: WoRMS Isopoda
+ -
+  given: Savatore
+  family: Brullo
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0001-5547-0796
+  given: Anne
+  family: Bruneau
+  note: WCVP-Fabaceae
+ -
+  given: Louise
+  family: Bush
+  note: WoRMS Turbellarians
+ -
+  given: Thies
+  family: Büscher
+  city: Kiel
+  country: DE
+  note: SF Phasmida
+  address: "Kiel, Germany"
+  organisation: Christian-Albrechts-Universität
+ -
+  given: Magdalena
+  family: Błażewicz-Paszkowycz
+  email: magdab@biol.uni.lodz.pl
+  note: WoRMS Tanaidacea
+ -
+  orcid: 0000-0002-0980-1651
+  given: Analyn
+  family: Cabras
+  rorid: 03fqqe674
+  department: "Terrestrial Invertebrate Research Laboratory, URESCOM"
+  city: City of Mati
+  country: PH
+  note: Entiminae
+  address: "City of Mati, Philippines"
+  organisation: Davao Oriental State University
+ -
+  orcid: 0000-0001-7209-9271
+  given: Stephen
+  family: Cairns
+  email: cairnss@si.edu
+  note: WoRMS Scleractinia
+ -
+  orcid: 0000-0001-9650-3136
+  given: Michael
+  family: Calonje
+  city: Miami
+  country: US
+  email: michaelc@montgomerybotanical.org
+  note: WLoC
+  address: "Miami, United States of America"
+  organisation: Montgomery Botanical Center
+ -
+  given: Warren
+  family: Cardinal-McTeague
+  note: WCVP-Fabaceae
+ -
+  given: Domingos
+  family: Cardoso
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0002-9289-2733
+  given: Lilian
+  family: Cardoso
+  department: Departamento de Zoologia
+  city: Rio de Janeiro
+  country: BR
+  email: lilian.cardoso@mn.ufrj.br
+  note: WCO
+  address: "Rio de Janeiro, Brazil"
+  organisation: Universidade Federal do Rio de Janeiro
+ -
+  given: R.C.
+  family: Castilho
+  note: Mites GSD Phytoseiidae; Mites GSD Tenuipalpidae
+ -
+  given: Isabella C.
+  family: Castro Silva
+  note: WCVP-Fabaceae
+ -
+  given: Angélica
+  family: Cervantes
+  note: WCVP-Fabaceae
+ -
+  given: Herve
+  family: Chevillotte
+  city: Paris
+  country: FR
+  email: herve.chevillotte@ird.fr
+  note: TITAN
+  address: "Paris, France"
+  organisation: Institut de Recherche pour le Développement (IRD)
+ -
+  orcid: 0000-0002-1609-8343
+  given: Le Min
+  family: Choo
+  note: WCVP-Fabaceae
+ -
+  given: K.A.
+  family: Christiansen
+  note: Collembola.org
+ -
+  given: F.
+  family: Cianferoni
+  note: Brentids
+ -
+  orcid: 0000-0002-8840-2121
+  given: María Marta
+  family: Cigliano
+  rorid: 01tjs6929
+  department: División Entomología
+  city: La Plata
+  country: AR
+  note: "SF Orthoptera; Global Team, Taxonomy Group"
+  address: "La Plata, Argentina"
+  organisation: "Museo de La Plata, CEPAVE - CONICET"
+ -
+  given: Ruth
+  family: Clarke
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0001-5431-8194
+  given: Thiago
+  family: Cobra e Monteiro
+  note: WCVP-Fabaceae
+ -
+  given: Allen
+  family: Collins
+  email: collinsa@si.edu
+  note: WoRMS Cubozoa; WoRMS Staurozoa; WoRMS Scyphozoa
+ -
+  given: James
+  family: Compton
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0002-6374-2365
+  given: Denis
+  family: Copilaș-Ciocianu
+  email: copilas.denis@gmail.com
+  note: WoRMS Amphipoda
+ -
+  orcid: 0000-0002-3323-6162
+  given: Laure
+  family: Corbari
+  email: laure.corbari@mnhn.fr
+  note: WoRMS Amphipoda
+ -
+  given: Ralf
+  family: Cordeiro
+  email: ralfts@gmail.com
+  note: WoRMS Octocorallia
+ -
+  family: CoreoideaSF Team
+  city: London
+  country: GB
+  note: SF Coreoidea
+  address: "London, United Kingdom"
+  organisation: The Natural History Museum
+ -
+  orcid: 0000-0002-1150-9940
+  given: Kevin
+  family: Cortés-Hernández
+  rorid: 03efmqc40
+  department: Biodiversity Knowledge Integration Center
+  city: Tempe
+  state: Arizona
+  country: US
+  email: kcortesh@asu.edu
+  url: www.researchgate.net/profile/Kevin-Cortes-Hernandez
+  note: Entiminae
+  address: "Tempe, Arizona, United States of America"
+  organisation: Arizona State University
+ -
+  orcid: 0000-0003-2362-0328
+  given: Mark
+  family: Costello
+  city: Auckland
+  country: NZ
+  email: mark.j.costello@nord.no
+  note: WoRMS Amphipoda; Taxonomy Group
+  address: "Auckland, New Zealand"
+  organisation: University of Auckland
+ -
+  orcid: 0000-0002-5516-1018
+  given: Simon
+  family: Crameri
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0002-6128-0195
+  given: Jesus A.
+  family: Cruz-López
+  city: Villa de Etla
+  state: Oaxaca
+  country: MX
+  email: thelyphonidito@gmail.com
+  note: WCO
+  address: "Villa de Etla, Oaxaca, Mexico"
+  organisation: "Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias\
+    \ (INIFAP)"
+ -
+  given: Paco
+  family: Cárdenas
+  email: paco.cardenas@fkog.uu.se
+  note: WoRMS Porifera
+ -
+  given: Meg
+  family: Daly
+  email: daly.66@osu.edu
+  note: WoRMS Actiniaria; WoRMS Corallimorpharia
+ -
+  given: Mikhail
+  family: Daneliya
+  email: info@marinespecies.org
+  note: WoRMS Amphipoda
+ -
+  orcid: 0000-0001-8361-5382
+  given: Jean-Claude
+  family: Dauvin
+  email: jean-claude.dauvin@unicaen.fr
+  note: WoRMS Amphipoda
+ -
+  orcid: 0000-0002-7729-396X
+  given: Peter
+  family: Davie
+  email: Peter.Davie@qm.qld.gov.au
+  note: WoRMS Brachyura
+ -
+  given: Claude
+  family: De Broyer
+  email: cdebroyer@naturalsciences.be
+  note: WoRMS Amphipoda
+ -
+  orcid: 0000-0002-2437-2445
+  given: Sammy
+  family: De Grave
+  email: sammy.degrave@oum.ox.ac.uk
+  note: WoRMS Euphausiacea
+ -
+  given: Haroldo C.
+  family: De Lima
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0001-7637-5755
+  given: Jurate
+  family: De Prins
+  country: BE
+  email: jurate.deprins@gmail.com
+  note: Global Gracillariidae; Global Gracillariidae
+  address: Belgium
+  organisation: Royal Belgian Institute of Natural Sciences
+ -
+  orcid: 0000-0002-4430-1425
+  given: Willy
+  family: De Prins
+  country: BE
+  email: willy.deprins@gmail.com
+  note: Global Gracillariidae; Global Gracillariidae
+  address: Belgium
+  organisation: Royal Belgian Institute of Natural Sciences
+ -
+  orcid: 0000-0003-4681-8951
+  given: Filipe
+  family: De Sousa
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0002-4484-3566
+  given: Manuel
+  family: De la Estrella
+  note: WCVP-Fabaceae
+ -
+  given: Rob
+  family: DeSalle
+  email: desalle@amnh.org
+  note: WoRMS Placozoa
+ -
+  given: Peter
+  family: Decker
+  email: info@marinespecies.org
+  note: WoRMS Myriapoda
+ -
+  orcid: 0000-0002-2168-9471
+  given: Wim
+  family: Decock
+  city: Oostende
+  country: BE
+  note: WoRMS liaison
+  address: "Oostende, Belgium"
+  organisation: Vlaams Instituut voor de Zee (VLIZ)
+ -
+  orcid: 0000-0002-9322-9968
+  given: Alfonso
+  family: Delgado-Salinas
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0003-3867-8872
+  given: Cyrille
+  family: Deliry
+  country: FR
+  email: cyrille.deliry@orange.fr
+  note: WOL
+  address: France
+ -
+  orcid: 0000-0002-6914-1026
+  given: Pablo M
+  family: Dellapé
+  rorid: 01tjs6929
+  department: División Entomología
+  city: La Plata
+  country: AR
+  note: SF Lygaeoidea
+  address: "La Plata, Argentina"
+  organisation: Museo de La Plata
+ -
+  given: J.
+  family: Den Heyer
+  note: BdelloideaBase
+ -
+  orcid: 0000-0002-5232-2277
+  given: Klaas-Douwe
+  family: Dijkstra
+  country: NL
+  email: kd.dijkstra@naturalis.nl
+  note: WOL
+  address: Netherlands
+ -
+  given: D.A.
+  family: Dmitriev
+  department: INHS
+  city: Champaign
+  state: IL
+  country: US
+  note: 3i Auchenorrhyncha; 3i Auchenorrhyncha
+  address: "Champaign, IL, United States of America"
+  organisation: University of Illinois
+ -
+  given: Martin
+  family: Dohrmann
+  email: m.dohrmann@lrz.uni-muenchen.de
+  note: WoRMS Porifera
+ -
+  orcid: 0000-0001-9068-9232
+  given: Óscar
+  family: Dorado
+  note: WCVP-Fabaceae
+ -
+  given: Franck
+  family: Dorkeld
+  city: Montpellier
+  country: FR
+  email: franck.dorkeld@inra.fr
+  note: SpmWeb
+  address: "Montpellier, France"
+  organisation: "French National Institute for Agriculture, Food, and Environment\
+    \ (INRAE)"
+ -
+  given: Rachel
+  family: Downey
+  email: Rachel.downey@anu.edu.au
+  note: WoRMS Porifera
+ -
+  orcid: 0000-0001-6152-5458
+  given: Lei
+  family: Duan
+  note: WCVP-Fabaceae
+ -
+  given: Maria-Cristina
+  family: Díaz
+  email: taxochica@gmail.com
+  note: WoRMS Porifera
+ -
+  given: David C
+  family: Eades
+  rorid: 047426m28
+  department: Illinois Natural History Survey
+  city: Champaign
+  state: IL
+  country: US
+  note: SF Orthoptera
+  address: "Champaign, IL, United States of America"
+  organisation: University of Illinois
+ -
+  orcid: 0000-0001-7803-4444
+  given: Ashley N.
+  family: Egan
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0002-0531-0732
+  given: Michael
+  family: Eitel
+  email: michael.eitel@tum.de
+  note: WoRMS Placozoa
+ -
+  given: Aliya
+  family: El Nagar
+  email: A.ElNagar@leeds.ac.uk
+  note: WoRMS Pycnogonida
+ -
+  given: Christian C.
+  family: Emig
+  note: Phoronida Database
+  organisation: BrachNet
+ -
+  orcid: 0000-0003-3067-077X
+  given: Michael S.
+  family: Engel
+  rorid: 001tmjg57
+  department: Natural History Museum and Department of Ecology and Evolutionary Biology
+  city: Lawrence
+  state: Kansas
+  country: US
+  note: SF Isoptera
+  address: "Lawrence, Kansas, United States of America"
+  organisation: University of Kansas
+ -
+  given: Patricia
+  family: Esquete Garrote
+  email: pesquete@ua.pt
+  note: WoRMS Tanaidacea
+ -
+  given: G.A.
+  family: Evans
+  note: Mites GSD Tenuipalpidae
+ -
+  orcid: 0000-0002-1314-755X
+  given: Neal L
+  family: Evenhuis
+  city: Honolulu
+  country: US
+  email: neale@bishopmuseum.org
+  note: Systema Dipterorum
+  address: "Honolulu, United States of America"
+  organisation: Bishop Museum
+ -
+  orcid: 0000-0001-8337-5112
+  given: Marcus
+  family: Falcão
+  note: WCVP-Fabaceae
+ -
+  given: Frank
+  family: Farruggia
+  note: WCVP-Fabaceae
+ -
+  given: Kristian
+  family: Fauchald
+  note: WoRMS Polychaeta
+ -
+  given: Daphne
+  family: Fautin
+  note: WoRMS Actiniaria; WoRMS Corallimorpharia
+ -
+  orcid: 0000-0001-6243-3184
+  given: Colin
+  family: Favret
+  rorid: 0161xgx34
+  department: Department of Biological Sciences
+  city: Montreal
+  country: CA
+  note: SF Aphid
+  address: "Montreal, Canada"
+  organisation: University of Montreal
+ -
+  given: Cene
+  family: Fišer
+  email: Cene.Fiser@bf.uni-lj.si
+  note: WoRMS Amphipoda
+ -
+  given: L.
+  family: Forró
+  note: FADA Cladocera
+ -
+  orcid: 0000-0003-4977-4341
+  given: Ana Paula
+  family: Fortuna-Perez
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0003-4984-8224
+  given: Helen
+  family: Fortune-Hopkins
+  note: WCVP-Fabaceae
+ -
+  given: Peter
+  family: Fritsch
+  note: WCVP-Fabaceae
+ -
+  given: Rainer
+  family: Froese
+  city: Kiel
+  country: DE
+  note: FishBase
+  address: "Kiel, Germany"
+  organisation: Helmholtz Center for Ocean Research
+ -
+  orcid: 0000-0001-5737-8803
+  given: Anne
+  family: Fuchs
+  city: Canberra
+  country: AU
+  note: Global Team
+  address: "Canberra, Australia"
+  organisation: Australian National Botanic Gardens
+ -
+  orcid: 0000-0002-1739-3010
+  given: Shinta
+  family: Fujimoto
+  email: shinta.f@water-bears.com
+  note: WoRMS Loricifera
+ -
+  given: Hidetaka
+  family: Furuya
+  email: hfuruya@bio.sci.osaka-u.ac.jp
+  note: WoRMS Orthonectida; WoRMS Rhombozoa
+ -
+  orcid: 0000-0003-3212-9688
+  given: Edeline
+  family: Gagnon
+  note: WCVP-Fabaceae
+ -
+  given: Rade
+  family: Garic
+  email: rade.garic@unidu.hr
+  note: WoRMS Appendicularia; WoRMS Thaliacea
+ -
+  orcid: 0000-0002-9716-1964
+  given: Rebeca
+  family: Gasca
+  note: WoRMS Amphipoda
+ -
+  given: J.-L.
+  family: Gattolliat
+  note: FADA Ephemeroptera
+ -
+  orcid: 0000-0001-7895-8137
+  given: Sarah
+  family: Gerken
+  email: sagerken@alaska.edu
+  note: WoRMS Cumacea
+ -
+  orcid: 0000-0002-9168-2507
+  given: Alexandre
+  family: Gibau de Lima
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0002-2908-491X
+  given: David
+  family: Gibson
+  email: dig@nhm.ac.uk
+  note: WoRMS Monogenea; WoRMS Trematoda
+ -
+  given: Raymond
+  family: Gibson
+  email: info@marinespecies.org
+  note: WoRMS Nemertea
+ -
+  orcid: 0000-0003-0857-1679
+  given: Cees
+  family: Gielis
+  rorid: 0566bfb96
+  city: Leiden
+  country: NL
+  url: https://www.naturalis.nl/
+  note: Pterophoroidea; Alucitoidea
+  address: "Leiden, Netherlands"
+  organisation: Naturalis Biodiversity Center
+ -
+  given: Todd
+  family: Gilligan
+  rorid: 0599wfz09
+  department: "Plant Protection and Quarantine, Science and Technology"
+  city: Fort Collins
+  state: CO
+  country: US
+  email: todd.m.gilligan@usda.gov
+  note: Tortricid.net
+  address: "Fort Collins, CO, United States of America"
+  organisation: USDA APHIS
+ -
+  orcid: 0000-0002-5467-8429
+  given: Gonzalo
+  family: Giribet
+  department: "Museum of Comparative Zoology, Department of Organismic and Evolutionary\
+    \ Biology"
+  city: Cambridge
+  state: MA
+  country: US
+  email: ggiribet@g.harvard.edu
+  note: WCO
+  address: "Cambridge, MA, United States of America"
+  organisation: Harvard University
+ -
+  orcid: 0000-0002-0851-6883
+  given: Jennifer C.
+  family: Girón Duque
+  rorid: 0405mnx93
+  department: Invertebrate Zoology Collection
+  city: Lubbock
+  state: TX
+  country: US
+  email: entiminae@gmail.com
+  url: https://sites.google.com/view/jcgiron/home
+  note: Entiminae
+  address: "Lubbock, TX, United States of America"
+  organisation: Museum of Texas Tech University
+ -
+  given: Arjan
+  family: Gittenberger
+  email: Arjan.Gittenberger@naturalis.nl
+  note: WoRMS Ascidiacea
+ -
+  orcid: 0000-0003-4719-3711
+  given: Gianpietro
+  family: Giusso del Galdo
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0002-3141-3700
+  given: Serge
+  family: Gofas
+  email: sgofas@uma.es
+  note: WoRMS Xenoturbellida
+ -
+  given: Mikhail
+  family: Goncharov
+  note: WCVP-Fabaceae
+ -
+  given: Anne Isabelley
+  family: Gondim
+  email: anneisabelley@yahoo.com.br
+  note: WoRMS Crinoidea
+ -
+  orcid: 0000-0002-2428-1340
+  given: Claire
+  family: Goodwin
+  email: Claire.Goodwin@huntsmanmarine.ca
+  note: WoRMS Porifera
+ -
+  orcid: 0000-0003-2991-5282
+  given: Rafaël
+  family: Govaerts
+  city: London
+  country: GB
+  url: https://www.kew.org/
+  note: WCVP; WCVP-Fabaceae
+  address: "London, United Kingdom"
+  organisation: "The Royal Botanic Gardens, Kew"
+ -
+  orcid: 0000-0002-4551-3454
+  given: Michal
+  family: Grabowski
+  email: michal.grabowski@biol.uni.lodz.pl
+  note: WoRMS Amphipoda
+ -
+  orcid: 0000-0003-1256-3567
+  given: Alexia de A.
+  family: Granado
+  department: Departamento de Invertebrados
+  city: Rio de Janeiro
+  country: BR
+  email: granadoalexia@mn.ufrj.br
+  note: WCO
+  address: "Rio de Janeiro, Brazil"
+  organisation: Universidade Federal do Rio de Janeiro
+ -
+  orcid: 0000-0001-7892-5757
+  given: Bernarda de Souza
+  family: Gregório
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0002-3119-1140
+  given: John R.
+  family: Grehan
+  rorid: 02pjdv450
+  department: McGuire Center for Lepidoptera and Biodiversity
+  city: Gainesville
+  state: Florida
+  country: US
+  email: calabar.john@gmail.com
+  note: Hepialidae
+  address: "Gainesville, Florida, United States of America"
+  organisation: "Florida Museum of Natural History, University of Florida"
+ -
+  given: Rosaura
+  family: Grether
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0002-2271-0172
+  given: David A.
+  family: Grimaldi
+  rorid: 03thb3e06
+  department: Division of Invertebrate Zoology
+  city: New York
+  state: New York
+  country: US
+  note: SF Isoptera
+  address: "New York, New York, United States of America"
+  organisation: American Museum of Natural History
+ -
+  given: Onno
+  family: Gross
+  email: info@deepwave.org
+  note: WoRMS Foraminifera
+ -
+  orcid: 0000-0001-6050-4997
+  given: José Manuel
+  family: Guerra-García
+  email: jmguerra@us.es
+  note: WoRMS Amphipoda
+ -
+  given: Alberto
+  family: Guglielmone
+  note: TicksBase
+ -
+  given: E.
+  family: Guilbert
+  note: Lace Bugs Database
+ -
+  orcid: 0000-0002-3530-013X
+  given: Tobias
+  family: Guldberg Frøslev
+  rorid: 05fjyn938
+  city: Copenhagen
+  country: DK
+  note: Global Team
+  address: "Copenhagen, Denmark"
+  organisation: Global Biodiversity Information Facility
+ -
+  given: Josef
+  family: Gusenleitner
+  city: Linz
+  country: AT
+  note: ZOBODAT Vespoidea
+  address: "Linz, Austria"
+  organisation: Oberostereichisches Landesmuseum
+ -
+  orcid: 0000-0002-5918-2262
+  given: Fabian
+  family: Haas
+  city: Nairobi
+  country: KE
+  note: Data provider; SF Dermaptera
+  address: "Nairobi, Kenya"
+  organisation: African Insect Science for Food and Health (ICIPE)
+ -
+  orcid: 0000-0003-1308-6360
+  given: Kerry A.
+  family: Hadfield
+  email: kerryh26@yahoo.com
+  note: WoRMS Isopoda
+ -
+  given: Eduardo
+  family: Hajdu
+  email: eduardo.hajdu@gmail.com
+  note: WoRMS Porifera
+ -
+  given: Michael
+  family: Hassler
+  city: Karlsruhe
+  country: DE
+  email: hassler.michael@t-online.de
+  note: World Ferns; World Plants
+  address: "Karlsruhe, Germany"
+  organisation: Individual custodian in cooperation with the Botanical Garden of the
+    Karlsruhe Institute of Technology
+ -
+  given: Michael W.
+  family: Hastriter
+  department: Monte L. Bean Life Science Museum
+  city: Provo
+  state: Utah
+  country: US
+  email: michaelhastriter@comcast.net
+  note: LWS fleas
+  address: "Provo, Utah, United States of America"
+  organisation: Brigham Young University
+ -
+  given: Christoph
+  family: Hauser
+  city: Stuttgart
+  country: DE
+  address: "Stuttgart, Germany"
+  organisation: Staatliches Museum fur Naturkunde Stuttgart
+ -
+  orcid: 0000-0002-0358-9928
+  given: Axel
+  family: Hausmann
+  rorid: 04rekk491
+  department: Entomology
+  city: Munich
+  country: DE
+  url: http://www.zsm.mwn.de/e/
+  note: Geometridae
+  address: "Munich, Germany"
+  organisation: Bavarian State Collection of Zoology
+ -
+  orcid: 0000-0003-1302-7686
+  given: Bruce W.
+  family: Hayward
+  email: b.hayward@geomarine.org.nz
+  note: WoRMS Foraminifera
+ -
+  given: Ed
+  family: Hendrycks
+  email: ehendrycks@nature.ca
+  note: WoRMS Amphipoda
+ -
+  given: Thomas J
+  family: Henry
+  rorid: 01pp8nd67
+  department: "Systematic Entomology Laboratory, Agricultural Research Service"
+  city: Washington
+  state: DC
+  country: US
+  note: SF Lygaeoidea
+  address: "Washington, DC, United States of America"
+  organisation: "USDA c/o National Museum of Natural History, Smithsonian Institution"
+ -
+  given: F.A.
+  family: Hernandes
+  note: BdelloideaBase
+ -
+  given: Juan Carlos
+  family: Hernández-Crespo
+  city: Madrid
+  country: ES
+  note: Eumycetozoa.com
+  address: "Madrid, Spain"
+  organisation: "Real Jardín Botánico de Madrid, CSIC"
+ -
+  given: Alfonso
+  family: Herrera Bachiller
+  email: fosilete@gmail.com
+  note: WoRMS Nemertea
+ -
+  given: Adrian
+  family: Hine
+  rorid: 039zvsn29
+  city: London
+  country: GB
+  url: http://www.nhm.ac.uk/
+  note: GLI
+  address: "London, United Kingdom"
+  organisation: Natural History Museum
+ -
+  given: Boon-Chuan
+  family: Ho
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0001-7341-0666
+  given: Alicia
+  family: Hodson
+  email: hodsona@si.edu
+  note: ITIS
+ -
+  orcid: 0000-0001-8259-3783
+  given: Bert
+  family: Hoeksema
+  email: bert.hoeksema@naturalis.nl
+  note: WoRMS Myxozoa; WoRMS Scleractinia
+ -
+  given: Mario
+  family: Hoenemann
+  note: WoRMS Remipedia
+ -
+  given: J.
+  family: Holstein
+  note: GloBIS (GART)
+ -
+  orcid: 0000-0003-3410-6914
+  given: Matthew
+  family: Hooge
+  email: info@marinespecies.org
+  note: WoRMS Turbellarians
+ -
+  orcid: 0000-0003-1722-5954
+  given: John
+  family: Hooper
+  email: john.hooper@qm.qld.gov.au
+  note: WoRMS Porifera
+ -
+  orcid: 0000-0003-0961-4554
+  given: Heidi
+  family: Hopkins
+  rorid: 047426m28
+  city: Ithaca
+  state: NY
+  country: US
+  note: Author; SF Plecoptera; Author; SF Embioptera; Author; SF Psocodea; Author;
+    SF Dermaptera; Author; SF Zoraptera; Author; SF Mantophasmatodea; Author; SF Grylloblattodea;
+    Author; SF Coleorrhyncha; SF Isoptera
+  address: "Ithaca, NY, United States of America"
+  organisation: University of Illinois
+ -
+  orcid: 0000-0002-2200-6126
+  given: Ivan
+  family: Horak
+  city: Pretoria
+  country: ZA
+  note: TicksBase
+  address: "Pretoria, South Africa"
+  organisation: University of Pretoria
+ -
+  orcid: 0000-0003-4250-1068
+  given: Tammy
+  family: Horton
+  email: tammy.horton@noc.ac.uk
+  note: WoRMS Amphipoda
+ -
+  given: Jirí
+  family: Hošek
+  note: ReptileDB
+ -
+  orcid: 0000-0002-9701-0699
+  given: Colin
+  family: Hughes
+  note: WCVP-Fabaceae
+ -
+  given: Lauren
+  family: Hughes
+  email: l.hughes@nhm.ac.uk
+  note: WoRMS Amphipoda
+ -
+  orcid: 0000-0003-2411-7003
+  given: Rony
+  family: Huys
+  email: r.huys@nhm.ac.uk
+  note: WoRMS Tantulocarida
+ -
+  given: C.
+  family: Häuser
+  note: GloBIS (GART)
+ -
+  given: F.
+  family: Janssens
+  note: Collembola.org
+ -
+  orcid: 0000-0002-1857-3005
+  given: Damià
+  family: Jaume
+  email: damiajaume@imedea.uib-csic.es
+  note: WoRMS Thermosbaenacea; WoRMS Amphipoda
+ -
+  orcid: 0000-0002-5836-6764
+  given: Firouzeh
+  family: Javadi
+  note: WCVP-Fabaceae
+ -
+  given: Krzysztof
+  family: Jazdzewski
+  email: info@marinespecies.org
+  note: WoRMS Amphipoda
+ -
+  given: Christian D.
+  family: Jersabek
+  email: christian.Jersabek@sbg.ac.at
+  note: RWC
+ -
+  given: Kevin P
+  family: Johnson
+  rorid: 047426m28
+  department: Illinois Natural History Survey
+  city: Champaign
+  state: IL
+  country: US
+  note: Author; SF Psocodea
+  address: "Champaign, IL, United States of America"
+  organisation: University of Illinois
+ -
+  orcid: 0000-0002-9501-0548
+  given: Lucas
+  family: Jordão
+  note: WCVP-Fabaceae
+ -
+  given: Piotr
+  family: Jóźwiak
+  email: piotr.jozwiak@biol.uni.lodz.pl
+  note: WoRMS Tanaidacea
+ -
+  orcid: 0000-0003-4630-9065
+  given: Keiichi
+  family: Kakui
+  email: keiichikakui@gmail.com
+  note: WoRMS Tanaidacea
+ -
+  orcid: 0000-0002-6312-6968
+  given: Axel
+  family: Kallies
+  rorid: 01ej9dk98
+  city: Melbourne
+  state: Victoria
+  country: AU
+  email: axel.kallies@unimelb.edu.au
+  note: Sesiidae
+  address: "Melbourne, Victoria, Australia"
+  organisation: University of Melbourne
+ -
+  orcid: 0000-0002-2915-0614
+  given: Marcin Jan
+  family: Kamiński
+  city: Warsaw
+  country: PL
+  note: Sepidiini tribe
+  address: "Warsaw, Poland"
+  organisation: "Museum and Institute of Zoology, Polish Academy of Sciences"
+ -
+  given: Kojun
+  family: Kanda
+  city: Flagstaff
+  state: AZ
+  country: US
+  note: Sepidiini tribe
+  address: "Flagstaff, AZ, United States of America"
+  organisation: Nortern Arizona University
+ -
+  given: Ivana
+  family: Karanovic
+  email: ivana.karanovic@utas.edu.au
+  note: WoRMS Ostracoda
+ -
+  orcid: 0000-0001-9907-4779
+  given: Jeyaraney
+  family: Kathirithamby
+  department: Department of Zoology
+  country: GB
+  email: jeyaraney.kathirithamby@biology.ox.ac.uk
+  note: WoRMS Strepsiptera; Taxonomy Group
+  address: United Kingdom
+  organisation: University of oxford
+ -
+  given: Michelle
+  family: Kelly
+  email: Michelle.Kelly@niwa.co.nz
+  note: WoRMS Porifera
+ -
+  given: Young-Hyo
+  family: Kim
+  email: yhkim@dankook.ac.kr
+  note: WoRMS Amphipoda
+ -
+  orcid: 0000-0001-8089-7599
+  given: Rachael
+  family: King
+  email: Rachael.King@samuseum.sa.gov.au
+  note: WoRMS Amphipoda
+ -
+  orcid: 0000-0002-0658-7338
+  given: Paul
+  family: Kirk
+  city: "Kew, London"
+  country: GB
+  email: P.Kirk@kew.org
+  note: Microsporidia; Species Fungorum Plus
+  address: "Kew, London, United Kingdom"
+  organisation: Royal Botanic Gardens
+ -
+  orcid: 0000-0003-4738-5967
+  given: Ian
+  family: Kitching
+  rorid: 039zvsn29
+  city: London
+  country: GB
+  url: https://www.nhm.ac.uk/
+  note: GLI
+  address: "London, United Kingdom"
+  organisation: Natural History Museum
+ -
+  given: Michelle
+  family: Klautau
+  email: mklautau@biologia.ufrj.br
+  note: WoRMS Porifera
+ -
+  orcid: 0000-0002-8509-0556
+  given: Bente B.
+  family: Klitgaard
+  note: WCVP-Fabaceae
+ -
+  given: Stefan
+  family: Koenemann
+  note: WoRMS Remipedia
+ -
+  given: N.M.
+  family: Korovchinsky
+  note: FADA Cladocera
+ -
+  given: A.
+  family: Kotov
+  note: FADA Cladocera
+ -
+  orcid: 0000-0002-6417-3678
+  given: Tatiana
+  family: Kramina
+  note: WCVP-Fabaceae
+ -
+  given: Traudl
+  family: Krapp-Schickel
+  email: traudl.krapp@netcologne.de
+  note: WoRMS Amphipoda
+ -
+  orcid: 0000-0001-8851-3318
+  given: Antonina
+  family: Kremenetskaia
+  email: antoneene@gmail.com
+  note: WoRMS Holothuroidea
+ -
+  given: Kumar
+  family: Krishna
+  rorid: 03thb3e06
+  department: Division of Invertebrate Zoology
+  city: New York
+  state: New York
+  country: US
+  note: SF Isoptera
+  address: "New York, New York, United States of America"
+  organisation: American Museum of Natural History
+ -
+  given: Valerie
+  family: Krishna
+  rorid: 03thb3e06
+  department: Division of Invertebrate Zoology
+  city: New York
+  state: New York
+  country: US
+  note: SF Isoptera
+  address: "New York, New York, United States of America"
+  organisation: American Museum of Natural History
+ -
+  orcid: 0000-0002-8566-8848
+  given: Andreas
+  family: Kroh
+  email: andreas.kroh@nhm-wien.ac.at
+  note: WoRMS Echinoidea
+ -
+  given: A.S.
+  family: Kroupa
+  note: GloBIS (GART); HymIS Crabronidae & Rhopalosomatidae; HymIS Pompilidae
+ -
+  orcid: 0000-0002-8334-6204
+  given: Adriano B.
+  family: Kury
+  department: Departamento de Invertebrados
+  city: Rio de Janeiro
+  country: BR
+  email: adrianok@gmail.com
+  note: WCO
+  address: "Rio de Janeiro, Brazil"
+  organisation: "Museu Nacional, Universidade Federal do Rio de Janeiro"
+ -
+  orcid: 0000-0003-0501-9440
+  given: Milena S.
+  family: Kury
+  department: Departamento de Meteorologia
+  city: Fortaleza
+  country: BR
+  email: milenaskury@gmail.com
+  note: WCO
+  address: "Fortaleza, Brazil"
+  organisation: Fundação Cearense de Meteorologia e Recursos Hídricos (FUNCEME)
+ -
+  given: J.
+  family: Kvaček
+  note: Fossil Ginkgoales
+ -
+  given: Olivier
+  family: Lachenaud
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0002-6135-2873
+  given: Carlos
+  family: Lado
+  city: Madrid
+  country: ES
+  note: Eumycetozoa.com
+  address: "Madrid, Spain"
+  organisation: "Real Jardín Botánico de Madrid, CSIC"
+ -
+  given: Gretchen
+  family: Lambert
+  email: gretchen.lambert00@gmail.com
+  note: WoRMS Ascidiacea
+ -
+  given: Lorena
+  family: Lana C. Atunes
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0003-4205-1802
+  given: Matt
+  family: Lavin
+  note: WCVP-Fabaceae
+ -
+  given: David
+  family: Lazarus
+  email: david.lazarus@mfn-berlin.de
+  note: WoRMS Polycystina
+ -
+  given: François
+  family: Le Coze
+  email: info@marinespecies.org
+  note: WoRMS Foraminifera
+ -
+  orcid: 0000-0003-4705-2513
+  given: Marianne
+  family: Le Roux
+  note: WCVP-Fabaceae
+ -
+  given: Sara
+  family: LeCroy
+  email: sara.lecroy@usm.edu
+  note: WoRMS Amphipoda
+ -
+  orcid: 0000-0001-8998-4373
+  given: José
+  family: Ledis Linares
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0002-9636-8242
+  given: Sangmi
+  family: Lee
+  rorid: 03efmqc40
+  city: Tempe
+  state: Arizona
+  country: US
+  email: slee281@asu.edu
+  note: Gelechiidae
+  address: "Tempe, Arizona, United States of America"
+  organisation: Arizona State University
+ -
+  given: Martin F.
+  family: Leitner
+  note: RWC
+ -
+  orcid: 0000-0003-2599-4577
+  given: Gwilym P.
+  family: Lewis
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0002-6596-5124
+  given: Shi-Jin
+  family: Li
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0002-1703-5723
+  given: Ji
+  family: Li-Qiang
+  department: Key Laboratory of Animal Ecology and Conservation Biology
+  city: Beijing
+  country: CN
+  note: Global Team
+  address: "Beijing, China"
+  organisation: Chinese Academy of Sciences
+ -
+  given: Robert (†)
+  family: Lichtwardt
+  note: Trichomycetes
+ -
+  given: Swee-Cheng
+  family: Lim
+  email: sponging@gmail.com
+  note: WoRMS Porifera
+ -
+  given: Tim
+  family: Littlewood
+  city: London
+  country: GB
+  address: "London, United Kingdom"
+  organisation: Natural History Museum
+ -
+  given: V.
+  family: Lohrmann
+  note: HymIS Crabronidae & Rhopalosomatidae
+ -
+  orcid: 0000-0002-1819-3010
+  given: Stuart J.
+  family: Longhorn
+  country: GB
+  email: sjl197@hotmail.com
+  note: WCO
+  address: United Kingdom
+ -
+  orcid: 0000-0003-2894-2166
+  given: Wolfgang
+  family: Lorenz
+  email: faunaplan@posteo.de
+  note: CarabCat; CarabCat
+ -
+  given: Jim
+  family: Lowry
+  note: WoRMS Amphipoda
+ -
+  orcid: 0000-0002-8071-7567
+  given: Federico
+  family: Lozano
+  city: Buenos Aires
+  country: AR
+  email: federicolozano82@gmail.com
+  note: WOL
+  address: "Buenos Aires, Argentina"
+  organisation: Universidad Nacional de Avellaneda
+ -
+  given: Ryan
+  family: Lumen
+  city: Flagstaff
+  state: AZ
+  country: US
+  note: Sepidiini tribe
+  address: "Flagstaff, AZ, United States of America"
+  organisation: Nortern Arizona University
+ -
+  orcid: 0000-0003-3647-6222
+  given: Chris HC
+  family: Lyal
+  rorid: 039zvsn29
+  city: London
+  country: GB
+  url: https://www.nhm.ac.uk/
+  note: WTaxa; GLI
+  address: "London, United Kingdom"
+  organisation: Natural History Museum
+ -
+  given: Anne-Nina
+  family: Lörz
+  email: Anne-Nina.Loerz@uni-hamburg.de
+  note: WoRMS Amphipoda
+ -
+  given: Larry
+  family: Madin
+  note: WoRMS Thaliacea
+ -
+  orcid: 0000-0002-2637-7522
+  given: Philippe
+  family: Magnien
+  city: Paris
+  country: FR
+  email: philippe@heteroptera.fr
+  note: Tessaratomidae Database
+  address: "Paris, France"
+  organisation: Muséum National d'Histoire Naturelle
+ -
+  orcid: 0000-0002-0178-8237
+  given: Christopher
+  family: Mah
+  note: WoRMS Asteroidea
+ -
+  given: Noel
+  family: Mal
+  city: Brussels
+  country: BE
+  note: Sepidiini tribe
+  address: "Brussels, Belgium"
+  organisation: Royal Belgian Institute of Natural Sciences
+ -
+  orcid: 0000-0002-0524-3015
+  given: Tomasz
+  family: Mamos
+  email: tomasz.mamos@biol.uni.lodz.pl
+  note: WoRMS Amphipoda
+ -
+  orcid: 0000-0002-7619-8493
+  given: Renata
+  family: Manconi
+  email: rmanconi@uniss.it
+  note: WoRMS Porifera
+ -
+  given: Vidal
+  family: Mansano
+  note: WCVP-Fabaceae
+ -
+  given: Kelly
+  family: Markello
+  email: kmarkello@calacademy.org
+  note: WoRMS Crinoidea
+ -
+  orcid: 0000-0001-8680-973X
+  given: Koen
+  family: Martens
+  department: FADA
+  city: Brussels
+  country: BE
+  note: Global Team
+  address: "Brussels, Belgium"
+  organisation: Royal Belgian Institute of Natural Sciences (RBINS)
+ -
+  given: Jon H.
+  family: Martin
+  city: London
+  country: GB
+  note: The White-Files
+  address: "London, United Kingdom"
+  organisation: Natural History Museum
+ -
+  orcid: 0000-0001-8008-5558
+  given: Patrick
+  family: Martin
+  email: patrick.martin@naturalsciences.be
+  note: WoRMS Oligochaeta
+ -
+  given: Kagiso S.
+  family: Mashego
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0002-3039-0973
+  given: Bruce
+  family: Maslin
+  city: Perth
+  country: AU
+  email: bruce.maslin@outlook.com
+  note: WWW; WWW; WCVP-Fabaceae
+  address: "Perth, Australia"
+  organisation: Western Australian Herbarium
+ -
+  orcid: 0000-0003-2911-0740
+  given: Sawai
+  family: Mattapha
+  note: WCVP-Fabaceae
+ -
+  given: Catherine
+  family: McFadden
+  email: mcfadden@g.hmc.edu
+  note: WoRMS Octocorallia
+ -
+  given: S.
+  family: McKamey
+  note: MOWD; 3i Auchenorrhyncha
+ -
+  given: J.A.
+  family: McMurtry
+  note: Mites GSD Phytoseiidae
+ -
+  orcid: 0000-0002-3215-3592
+  given: Miguel Angel
+  family: Medrano
+  department: Invertebrados
+  city: Rio de Janeiro
+  state: RJ
+  country: BR
+  email: miangelmed@gmail.com
+  url: https://www.researchgate.net/profile/Miguel-Medrano-2
+  note: WCO
+  address: "Rio de Janeiro, RJ, Brazil"
+  organisation: Museu Nacional/UFRJ
+ -
+  orcid: 0000-0001-5709-3816
+  given: Jan
+  family: Mees
+  email: jan.mees@vliz.be
+  note: WoRMS Leptostraca
+ -
+  orcid: 0000-0002-7220-6396
+  given: Amanda C.
+  family: Mendes
+  department: "Departamento de Zoologia, Instituto de Biologia Roberto de Alcantara\
+    \ Gomes"
+  city: Rio de Janeiro
+  country: BR
+  email: amanda.mendes@gmail.com
+  note: WCO
+  address: "Rio de Janeiro, Brazil"
+  organisation: Universidade do Estado do Rio de Janeiro (UERJ)
+ -
+  given: Kelly
+  family: Merrin
+  email: kellymerrin@hotmail.com
+  note: WoRMS Isopoda
+ -
+  given: N.C.
+  family: Mesa
+  note: Mites GSD Tenuipalpidae
+ -
+  given: Charles
+  family: Messing
+  note: WoRMS Crinoidea
+ -
+  given: Carlos G.C.
+  family: Mielke
+  rorid: 02pjdv450
+  department: McGuire Center for Lepidoptera and Biodiversity
+  city: Gainesville
+  state: Florida
+  country: US
+  email: cmielke1@uol.com.br
+  note: Hepialidae
+  address: "Gainesville, Florida, United States of America"
+  organisation: "Florida Museum of Natural History, University of Florida"
+ -
+  given: Alain
+  family: Migeon
+  city: Montpellier
+  country: FR
+  email: alain.migeon@inrae.fr
+  note: SpmWeb
+  address: "Montpellier, France"
+  organisation: "French National Institute for Agriculture, Food, and Environment\
+    \ (INRAE)"
+ -
+  given: Douglas R
+  family: Miller
+  department: Systematic Entomology Laboratory
+  city: Beltsville
+  state: MD
+  country: US
+  note: ScaleNet
+  address: "Beltsville, MD, United States of America"
+  organisation: US Department of Agriculture
+ -
+  given: Claudia
+  family: Mills
+  email: cemills@u.washington.edu
+  note: WoRMS Ctenophora; WoRMS Staurozoa
+ -
+  given: A.
+  family: Minelli
+  note: ChiloBase
+ -
+  orcid: 0000-0002-5418-244X
+  given: David
+  family: Mitchell
+  email: mitchelld@si.edu
+  note: ITIS
+ -
+  family: MolluscaBase eds.
+  note: WoRMS Mollusca
+ -
+  given: Tina
+  family: Molodtsova
+  email: tina@ocean.ru
+  note: WoRMS Ceriantharia; WoRMS Antipatharia
+ -
+  given: José Francisco
+  family: Montenegro Valls
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0003-1533-8488
+  given: Richard
+  family: Mooi
+  email: rmooi@calacademy.org
+  note: WoRMS Echinoidea
+ -
+  given: André
+  family: Morandini
+  email: acmorand@ib.usp.br
+  note: WoRMS Scyphozoa
+ -
+  given: Rosana
+  family: Moreira da Rocha
+  email: rmrocha@ufpr.br
+  note: WoRMS Ascidiacea
+ -
+  given: Christine
+  family: Morrow
+  email: christinemorrow@gmail.com
+  note: WoRMS Porifera
+ -
+  given: Annah
+  family: Moteetee
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0002-8256-105X
+  given: Leidys
+  family: Murillo-Ramos
+  rorid: 04fbb7514
+  department: Departamento de Biología
+  city: Sucre
+  country: CO
+  url: http://www.unisucre.edu.co/
+  note: Geometridae
+  address: "Sucre, Colombia"
+  organisation: Universidad de Sucre
+ -
+  given: Bruce
+  family: Murphy
+  note: WCVP-Fabaceae
+ -
+  given: J.P.Z.
+  family: Narita
+  note: Mites GSD Phytoseiidae
+ -
+  family: Nemys eds.
+  note: WoRMS Nematoda
+ -
+  given: Davi Galvão
+  family: Nery
+  email: davi.galvaon@gmail.com
+  note: WoRMS Ostracoda
+ -
+  given: U
+  family: Neu-Becker
+  rorid: 02rbfnr22
+  city: Munich
+  country: DE
+  note: Author; SF Plecoptera
+  address: "Munich, Germany"
+  organisation: Max Planck Institute
+ -
+  given: Birger
+  family: Neuhaus
+  email: birger.neuhaus@mfn.berlin
+  note: WoRMS Kinorhyncha
+ -
+  orcid: 0000-0001-9885-6306
+  given: Alfred
+  family: Newton
+  city: Chicago
+  country: US
+  email: anewton@fieldmuseum.org
+  note: StaphBase
+  address: "Chicago, United States of America"
+  organisation: Field Museum of Natural History
+ -
+  given: Peter
+  family: Ng Kee Lin
+  email: dbsngkl@nus.edu.sg
+  note: WoRMS Brachyura
+ -
+  orcid: 0000-0002-7987-0679
+  given: Dave
+  family: Nicolson
+  city: "Washington, D.C."
+  country: US
+  email: nicolsod@si.edu
+  note: "ITIS; Global Team, Taxonomy Group"
+  address: "Washington, D.C., United States of America"
+  organisation: US Geological Survey / Smithsonian Institution
+ -
+  orcid: 0000-0001-9813-6077
+  given: John E.
+  family: Nielsen
+  city: Downer
+  state: ACT
+  country: AU
+  email: zelotypia.stacyi@gmail.com
+  note: Hepialidae
+  address: "Downer, ACT, Australia"
+ -
+  orcid: 0000-0001-7373-2243
+  given: Ard
+  family: Nijhof
+  department: Institut für Parasitologie und Tropenveterinärmedizin
+  city: Berlin
+  country: DE
+  email: ard.nijhof@fu-berlin.de
+  note: TicksBase
+  address: "Berlin, Germany"
+  organisation: Freie Universität Berlin
+ -
+  given: Teruaki
+  family: Nishikawa
+  email: nishikawateruaki@gmail.com
+  note: WoRMS Cephalochordata
+ -
+  orcid: 0000-0001-7776-1527
+  given: Jon
+  family: Norenburg
+  email: norenbur@si.edu
+  note: WoRMS Nemertea
+ -
+  orcid: 0000-0003-0885-6578
+  given: Tim
+  family: O'Hara
+  email: tohara@museum.vic.gov.au
+  note: WoRMS Ophiuroidea
+ -
+  given: R.
+  family: Ochoa
+  note: Mites GSD Tenuipalpidae
+ -
+  given: Hiroyoshi
+  family: Ohashi
+  note: WCVP-Fabaceae
+ -
+  given: Kazuaki
+  family: Ohashi
+  note: WCVP-Fabaceae
+ -
+  given: Justin
+  family: Ollerenshaw
+  rorid: 039zvsn29
+  city: London
+  country: GB
+  url: http://www.nhm.ac.uk/
+  note: GLI
+  address: "London, United Kingdom"
+  organisation: Natural History Museum
+ -
+  given: P.
+  family: Oosterbroek
+  note: CCW
+ -
+  given: Dennis
+  family: Opresko
+  email: dmopresko@hotmail.com
+  note: WoRMS Antipatharia
+ -
+  given: Roy
+  family: Osborne
+  note: WLoC
+ -
+  given: Hans-Jürgen
+  family: Osigus
+  email: h.j.osigus@ecolevol.de
+  note: WoRMS Placozoa
+ -
+  given: J.D.
+  family: Oswald
+  note: LDL Neuropterida
+ -
+  orcid: 0000-0002-7747-6678
+  given: Yuzo
+  family: Ota
+  email: yota1164@gmail.com
+  note: WoRMS Isopoda
+ -
+  given: Daniel
+  family: Otte
+  rorid: 04bdffz58
+  department: The Academy of Natural Sciences of Philadelphia
+  city: Philadelphia
+  state: PA
+  country: US
+  note: SF Orthoptera; SF Mantodea
+  address: "Philadelphia, PA, United States of America"
+  organisation: Drexel University
+ -
+  orcid: 0000-0003-2931-6116
+  given: David
+  family: Ouvrard
+  city: Paris
+  country: FR
+  email: david.ouvrard@anses.fr
+  note: Psyllist; The White-Files
+  address: "Paris, France"
+  organisation: Muséum National d’Histoire Naturelle
+ -
+  orcid: 0000-0001-7436-0939
+  given: Luciano
+  family: Paganucci de Queiroz
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0003-0700-6723
+  given: Arun
+  family: Pandey
+  note: WCVP-Fabaceae
+ -
+  given: Gustav
+  family: Paulay
+  email: paulay@flmnh.ufl.edu
+  note: WoRMS Holothuroidea; WoRMS Priapulida
+ -
+  given: Dennis
+  family: Paulson
+  department: Slater Museum
+  city: Puget Sound
+  state: Washington
+  country: US
+  email: dennispaulson@comcast.net
+  url: https://www2.pugetsound.edu/academics/academic-resources/slater-museum/biodiversity-resources/dragonflies/
+  note: WOL
+  address: "Puget Sound, Washington, United States of America"
+  organisation: University of Puget Sound
+ -
+  given: Daniel
+  family: Pauly
+  department: Fisheries Centre
+  city: Vancouver
+  country: CA
+  note: FishBase
+  address: "Vancouver, Canada"
+  organisation: University of British Columbia
+ -
+  given: R. Toby
+  family: Pennington
+  note: WCVP-Fabaceae
+ -
+  given: Julia da Silva
+  family: Pereira
+  email: juliaunbio@gmail.com
+  note: WoRMS Ostracoda
+ -
+  orcid: 0000-0003-3270-9551
+  given: Daniel
+  family: Perez-Gelabert
+  email: perezd@si.edu
+  note: ITIS
+ -
+  given: A.
+  family: Petrusek
+  note: FADA Cladocera
+ -
+  orcid: 0000-0001-8390-0079
+  given: Pete
+  family: Phillipson
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0003-3658-1372
+  given: Ulisses
+  family: Pinheiro
+  note: WoRMS Porifera
+ -
+  orcid: 0000-0003-0872-8429
+  given: Marli
+  family: Pires Morim
+  note: WCVP-Fabaceae
+ -
+  given: Andrzej
+  family: Pisera
+  email: apis@twarda.pan.pl
+  note: WoRMS Porifera
+ -
+  given: Brian
+  family: Pitkin
+  rorid: 039zvsn29
+  city: London
+  country: GB
+  url: https://www.nhm.ac.uk/
+  note: GLI
+  address: "London, United Kingdom"
+  organisation: Natural History Museum
+ -
+  orcid: 0000-0002-2339-655X
+  given: David
+  family: Plotkin
+  rorid: 02pjdv450
+  department: McGuire Center for Lepidoptera and Biodiversity
+  city: Gainesville
+  state: Florida
+  country: US
+  url: http://www.flmnh.ufl.edu/
+  note: Geometridae
+  address: "Gainesville, Florida, United States of America"
+  organisation: Florida Museum of Natural History
+ -
+  given: Bruna
+  family: Poatskievick Pierezan
+  email: brunapp@unisinos.br
+  note: WoRMS Crinoidea
+ -
+  orcid: 0000-0002-7414-183X
+  given: Gary
+  family: Poore
+  email: gpoore@museum.vic.gov.au
+  note: WoRMS Thermosbaenacea; WoRMS Isopoda
+ -
+  orcid: 0000-0002-7768-9059
+  given: Maria
+  family: Povydysh
+  note: WCVP-Fabaceae
+ -
+  given: Rayran Araújo
+  family: Praxedes
+  email: rayranpraxedes@gmail.com
+  note: WoRMS Ostracoda
+ -
+  given: W.J.
+  family: Pulawski
+  note: HymIS Crabronidae & Rhopalosomatidae
+ -
+  orcid: 0000-0003-0768-1286
+  given: Richard
+  family: Pyle
+  city: Honolulu
+  state: Hawaii
+  country: US
+  note: "Global Team, Taxonomy Group"
+  address: "Honolulu, Hawaii, United States of America"
+  organisation: Bernice Pauahi Bishop Museum
+ -
+  orcid: 0000-0001-6512-0730
+  given: Franz
+  family: Pühringer
+  department: Biologiezentrum
+  city: Linz
+  country: AT
+  email: f.puehringer@sesiidae.net
+  note: Sesiidae
+  address: "Linz, Austria"
+  organisation: Oberösterreichisches Landesmuseum
+ -
+  orcid: 0000-0002-3940-3734
+  given: Hossein
+  family: Rajaei
+  rorid: 05k35b119
+  department: Entomology
+  city: Stuttgart
+  state: Baden-Württemberg
+  country: DE
+  email: hossein.rajaei@smns-bw.de
+  url: http://www.naturkundemuseum-bw.de/
+  note: Geometridae
+  address: "Stuttgart, Baden-Württemberg, Germany"
+  organisation: Staatliches Museum für Naturkunde Stuttgart
+ -
+  orcid: 0000-0003-2620-6464
+  given: Nivohenintsoa
+  family: Rakotonirina
+  note: WCVP-Fabaceae
+ -
+  given: Gustavo
+  family: Ramos
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0002-3714-8231
+  given: Juliana
+  family: Rando
+  note: WCVP-Fabaceae
+ -
+  given: Fabiana
+  family: Ranzato Filardi
+  note: WCVP-Fabaceae
+ -
+  given: Lauren
+  family: Raz
+  city: Bogotá
+  country: CO
+  note: "Global Team, Taxonomy Group"
+  address: "Bogotá, Colombia"
+  organisation: National University of Colombia
+ -
+  given: Geoffrey
+  family: Read
+  email: Geoffrey.Read@niwa.co.nz
+  note: WoRMS Polychaeta
+ -
+  orcid: 0000-0003-1887-5211
+  given: Tony
+  family: Rees
+  note: compiler; IRMNG; Taxonomy Group
+ -
+  orcid: 0000-0003-3837-3497
+  given: Mike
+  family: Reich
+  email: mike.reich@lmu.de
+  note: WoRMS Holothuroidea
+ -
+  given: James Davis
+  family: Reimer
+  email: jreimer@sci.u-ryukyu.ac.jp
+  note: WoRMS Zoantharia
+ -
+  orcid: 0000-0002-9976-358X
+  given: Jan Ove
+  family: Rein
+  department: Medicine and Health Library
+  city: Trondheim
+  country: "NO"
+  email: jan.rein@ub.ntnu.no
+  note: The Scorpion Files
+  address: "Trondheim, Norway"
+  organisation: Norwegian University of Science & Technology
+ -
+  given: John
+  family: Reynolds
+  email: info@marinespecies.org
+  note: WoRMS Oligochaeta
+ -
+  orcid: 0000-0002-5499-7913
+  given: Judy
+  family: Rincón
+  rorid: 03cqe8w59
+  department: "Entomology Division, Museo de La Plata"
+  city: La Plata
+  state: Buenos Aires
+  country: AR
+  email: j.andrearincon@gmail.com
+  note: Entiminae
+  address: "La Plata, Buenos Aires, Argentina"
+  organisation: Consejo Nacional de Investigaciones Científicas y Técnicas
+ -
+  orcid: 0000-0002-2195-6605
+  given: Marc
+  family: Rius
+  email: mrius@ceab.csic.es
+  note: WoRMS Ascidiacea
+ -
+  orcid: 0000-0001-6215-3617
+  given: Tim
+  family: Robertson
+  city: Copenhagen
+  country: DK
+  note: Information Systems Group
+  address: "Copenhagen, Denmark"
+  organisation: GBIF
+ -
+  given: Gaden
+  family: Robinson
+  rorid: 039zvsn29
+  city: London
+  country: GB
+  url: https://www.nhm.ac.uk/
+  note: GLI
+  address: "London, United Kingdom"
+  organisation: Natural History Museum
+ -
+  given: Gaden S (†)
+  family: Robinson
+  note: Tineidae NHM
+ -
+  given: Estefania
+  family: Rodríguez
+  email: erodriguez@amnh.org
+  note: WoRMS Actiniaria
+ -
+  given: Michael
+  family: Ruggiero
+  city: "Washington, D.C."
+  country: US
+  note: Taxonomy Group
+  address: "Washington, D.C., United States of America"
+  organisation: Smithsonian Institution
+ -
+  given: Pilar
+  family: Ríos
+  email: pilar.rios.lopez@gmail.com
+  note: WoRMS Porifera
+ -
+  given: Klaus
+  family: Rützler
+  email: RUETZLER@si.edu
+  note: WoRMS Porifera
+ -
+  given: A.
+  family: Sanborn
+  note: 3i Auchenorrhyncha
+ -
+  orcid: 0000-0002-7748-5363
+  given: Munivenkatappa
+  family: Sanjappa
+  note: WCVP-Fabaceae
+ -
+  given: Stéfhanne Guimarães
+  family: Santos
+  email: stefhanne.guimaraes@gmail.com
+  note: WoRMS Ostracoda
+ -
+  given: Arnoldo
+  family: Santos-Guerra
+  note: WCVP-Fabaceae
+ -
+  given: M.
+  family: Sartori
+  note: FADA Ephemeroptera
+ -
+  orcid: 0000-0002-0085-5960
+  given: Klaus
+  family: Sattler
+  rorid: 039zvsn29
+  city: London
+  country: GB
+  url: https://www.nhm.ac.uk/
+  note: Gelechiidae
+  address: "London, United Kingdom"
+  organisation: Natural History Museum
+ -
+  given: Bernd
+  family: Schierwater
+  email: bernado@trichoplax.com
+  note: WoRMS Placozoa
+ -
+  given: Steve
+  family: Schilling
+  note: WoRMS Turbellarians
+ -
+  given: Rowan
+  family: Schley
+  note: WCVP-Fabaceae
+ -
+  given: C.
+  family: Schmid-Egger
+  note: HymIS Crabronidae & Rhopalosomatidae; HymIS Pompilidae
+ -
+  given: A.
+  family: Schmidt-Rhaesa
+  note: FADA Nematomorpha
+ -
+  orcid: 0000-0002-0721-6002
+  given: Paul
+  family: Schoolmeesters
+  note: Scarabs
+  organisation: Schoolmeesters P.
+ -
+  given: Martin
+  family: Schorr
+  country: DE
+  email: bierschorr1@online.de
+  note: WOL
+  address: Germany
+ -
+  given: Brian
+  family: Schrire
+  note: WCVP-Fabaceae
+ -
+  given: Peter
+  family: Schuchert
+  email: info@marinespecies.org
+  note: WoRMS Hydrozoa
+ -
+  given: R.T.
+  family: Schuh
+  note: PBI Plant Bug
+ -
+  orcid: 0000-0001-6286-8196
+  given: Christine
+  family: Schönberg
+  email: cschoenberg@mail.nsysu.edu.tw
+  note: WoRMS Porifera
+ -
+  orcid: 0000-0002-1850-8158
+  given: Rodrigo
+  family: Schütz Rodrigues
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0002-0458-3755
+  given: Malcolm
+  family: Scoble
+  rorid: 039zvsn29
+  department: Science Group
+  city: London
+  country: GB
+  url: https://www.nhm.ac.uk/
+  note: GLI; Geometridae
+  address: "London, United Kingdom"
+  organisation: Natural History Museum
+ -
+  given: Guillermo
+  family: Seijo
+  note: WCVP-Fabaceae
+ -
+  given: Elidiene Priscila
+  family: Seleme
+  note: WCVP-Fabaceae
+ -
+  given: André
+  family: Senna
+  email: senna.carcinologia@gmail.com
+  note: WoRMS Amphipoda
+ -
+  orcid: 0000-0001-9132-5537
+  given: Cristiana
+  family: Serejo
+  email: csserejo@acd.ufrj.br
+  note: WoRMS Amphipoda
+ -
+  given: A.
+  family: Sforzi
+  note: Brentids
+ -
+  given: Noa
+  family: Shenkar
+  email: noa.shenkar@gmail.com
+  note: WoRMS Ascidiacea
+ -
+  orcid: 0000-0002-4731-1311
+  given: Gustavo
+  family: Shimizu
+  note: WCVP-Fabaceae
+ -
+  given: Volker
+  family: Siegel
+  note: WoRMS Euphausiacea
+ -
+  orcid: 0000-0003-2592-1298
+  given: Petra
+  family: Sierwald
+  email: psierwald@fieldmuseum.org
+  note: WoRMS Myriapoda
+ -
+  orcid: 0000-0003-2237-9325
+  given: Pasi
+  family: Sihvonen
+  rorid: 03tcx6c30
+  department: Finnish Museum of Natural History
+  city: Helsinki
+  country: FI
+  url: https://www.luomus.fi/
+  note: Geometridae
+  address: "Helsinki, Finland"
+  organisation: University of Helsinki
+ -
+  given: Andréia
+  family: Silva Flores
+  note: WCVP-Fabaceae
+ -
+  given: Catarina
+  family: Silva de Carvalho
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0002-5732-1716
+  given: Marcelo Fragomeni
+  family: Simon
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0001-9857-9564
+  given: Thomas
+  family: Simonsen
+  rorid: 039zvsn29
+  city: London
+  country: GB
+  url: https://www.nhm.ac.uk/
+  note: GLI
+  address: "London, United Kingdom"
+  organisation: Natural History Museum
+ -
+  orcid: 0000-0002-4579-7370
+  given: Charles E.
+  family: Simpson
+  note: WCVP-Fabaceae
+ -
+  given: Frederic
+  family: Sinniger
+  email: fredsinniger@hotmail.com
+  note: WoRMS Zoantharia
+ -
+  given: Yotsawate
+  family: Sirichamorn
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0002-7102-3934
+  given: Michael
+  family: Skvarla
+  department: Department of Entomology
+  city: University Park
+  state: Pennsylvania
+  country: US
+  email: mxs1578@psu.edu
+  note: CunaxidBase
+  address: "University Park, Pennsylvania, United States of America"
+  organisation: Pennsylvania State University
+ -
+  orcid: 0000-0002-1286-950X
+  given: Aaron D.
+  family: Smith
+  city: Flagstaff
+  state: AZ
+  country: US
+  note: Sepidiini tribe
+  address: "Flagstaff, AZ, United States of America"
+  organisation: Nortern Arizona University
+ -
+  orcid: 0000-0001-5297-7452
+  given: Vincent S
+  family: Smith
+  rorid: 039zvsn29
+  city: London
+  country: GB
+  note: Author; SF Psocodea
+  address: "London, United Kingdom"
+  organisation: The Natural History Museum
+ -
+  orcid: 0000-0002-5081-2803
+  given: Danilo
+  family: Soares Gissi
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0001-6314-9767
+  given: Dmitry
+  family: Sokoloff
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0002-6196-6197
+  given: Solange
+  family: Sotuyo
+  note: WCVP-Fabaceae
+ -
+  given: A.
+  family: Soulier-Perkins
+  note: COOL
+ -
+  orcid: 0000-0001-7894-7219
+  given: Eric J.
+  family: South
+  rorid: 03c4kec23
+  city: Batesville
+  state: AR
+  country: US
+  note: SF Isoptera
+  address: "Batesville, AR, United States of America"
+  organisation: Lyon College
+ -
+  orcid: 0000-0001-5248-2134
+  given: Jesser F.
+  family: Souza-Filho
+  email: jesser_fidelis@yahoo.com.br
+  note: WoRMS Amphipoda
+ -
+  given: Lauren
+  family: Spearman
+  rorid: 05vt9qd57
+  department: Department of Ecology and Evolution
+  city: New Brunswick
+  state: NJ
+  country: US
+  note: SF Mantodea
+  address: "New Brunswick, NJ, United States of America"
+  organisation: Rutgers University
+ -
+  orcid: 0000-0001-8596-1289
+  given: Jörg
+  family: Spelda
+  email: spelda@myriapoden-info.de
+  note: WoRMS Myriapoda
+ -
+  given: A.
+  family: Steiner
+  note: GloBIS (GART)
+ -
+  given: Torben
+  family: Stemme
+  note: WoRMS Remipedia
+ -
+  given: Wolfgang
+  family: Sterrer
+  email: westerrer@gov.bm
+  note: WoRMS Gnathostomulida
+ -
+  orcid: 0000-0002-2986-7076
+  given: Dennis
+  family: Stevenson
+  city: New York
+  country: US
+  note: WLoC
+  address: "New York, United States of America"
+  organisation: New York Botanical Garden
+ -
+  given: Martin B D
+  family: Stiewe
+  rorid: 039zvsn29
+  city: London
+  country: GB
+  note: SF Mantodea
+  address: "London, United Kingdom"
+  organisation: The Natural History Museum
+ -
+  orcid: 0000-0001-7207-2765
+  given: Charles H.
+  family: Stirton
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0002-8144-9592
+  given: Malin
+  family: Strand
+  email: Malin.Strand@slu.se
+  note: WoRMS Nemertea
+ -
+  orcid: 0000-0001-7506-9043
+  given: Shannon
+  family: Straub
+  note: WCVP-Fabaceae
+ -
+  given: G
+  family: Stueber
+  rorid: 02rbfnr22
+  city: Munich
+  country: DE
+  note: Author; SF Plecoptera
+  address: "Munich, Germany"
+  organisation: Max Planck Institute
+ -
+  orcid: 0000-0002-2586-7239
+  given: Sabine
+  family: Stöhr
+  email: sabine.stohr@nrm.se
+  note: WoRMS Ophiuroidea
+ -
+  orcid: 0000-0003-0400-6875
+  given: Shweta
+  family: Subramaniam
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0002-4200-2544
+  given: Billie
+  family: Swalla
+  email: bjswalla@u.washington.edu
+  note: WoRMS Ascidiacea
+ -
+  given: Jacek
+  family: Swedo
+  country: PL
+  note: Taxonomy Group
+  address: Poland
+  organisation: University of Gdansk
+ -
+  given: M.
+  family: Sánchez-Ruiz
+  note: WTaxa
+ -
+  given: Martin Vinther
+  family: Sørensen
+  note: WoRMS Loricifera
+ -
+  orcid: 0000-0002-4909-6037
+  given: Stefano
+  family: Taiti
+  email: stefano.taiti@cnr.it
+  note: WoRMS Isopoda
+ -
+  given: D.M.
+  family: Takiya
+  note: 3i Auchenorrhyncha
+ -
+  orcid: 0000-0003-3470-587X
+  given: Anne Helene
+  family: Tandberg
+  email: Anne.Helene.Tandberg@uib.no
+  note: WoRMS Amphipoda
+ -
+  orcid: 0000-0002-3310-1903
+  given: Gerard
+  family: Tavakilian
+  city: Paris
+  country: FR
+  email: gerard.tavakilian@mnhn.fr
+  note: TITAN
+  address: "Paris, France"
+  organisation: Muséum national d'Histoire naturelle (MNHN)
+ -
+  given: Kristian
+  family: Taylor
+  email: ktaylor@ut.edu
+  note: WoRMS Crinoidea
+ -
+  given: A.
+  family: Thessen
+  note: Gymnodinium
+ -
+  given: James Darwin
+  family: Thomas
+  email: info@marinespecies.org
+  note: WoRMS Amphipoda
+ -
+  given: Phillip
+  family: Thomas
+  country: GB
+  email: PThomas@rbge.org.uk
+  url: https://www.rbge.org.uk/
+  note: WFO Pinopsida
+  address: United Kingdom
+  organisation: Royal Botanic Garden Edinburgh
+ -
+  orcid: 0000-0003-1279-2722
+  given: Scott
+  family: Thomson
+  city: "Petrópolis, Manaus"
+  state: "State of Amazonas, 69055-010"
+  country: BR
+  note: Global Team
+  address: "Petrópolis, Manaus, State of Amazonas, 69055-010, Brazil"
+  organisation: Centro de Estudos dos Quelônios da Amazônia - CEQUA
+ -
+  family: ThripsWiki
+  note: ThripsWiki
+ -
+  given: Erik
+  family: Thuesen
+  email: thuesene@evergreen.edu
+  note: WoRMS Chaetognatha
+ -
+  orcid: 0000-0001-5970-8343
+  given: Mats
+  family: Thulin
+  note: WCVP-Fabaceae
+ -
+  given: Mike
+  family: Thurston
+  email: mhth@noc.ac.uk
+  note: WoRMS Amphipoda
+ -
+  given: Ben
+  family: Thuy
+  email: nebyuht@yahoo.com
+  note: WoRMS Ophiuroidea
+ -
+  orcid: 0000-0002-6353-7281
+  given: Antonio
+  family: Todaro
+  email: antonio.todaro@unimore.it
+  note: WoRMS Gastrotricha
+ -
+  given: Benjamin M.
+  family: Torke
+  note: WCVP-Fabaceae
+ -
+  orcid: 0000-0001-8861-6317
+  given: Sz-Yi
+  family: Tsai
+  department: "TaiCOL, TaiBIF"
+  city: "Taipei City, Taiwan, Chinese Taipei"
+  note: Global Team
+  address: "Taipei City, Taiwan, Chinese Taipei"
+  organisation: Academica Sinica
+ -
+  given: M.
+  family: Turiault
+  note: GloBIS (GART)
+ -
+  orcid: 0000-0001-6031-1335
+  given: John R.G.
+  family: Turner
+  rorid: 024mrxd33
+  department: School of Biology
+  city: Leeds
+  state: England
+  country: GB
+  email: j.r.g.turner@leeds.ac.uk
+  note: Hepialidae
+  address: "Leeds, England, United Kingdom"
+  organisation: University of Leeds
+ -
+  given: Thomas
+  family: Turner
+  email: tlturner@ucsb.edu
+  note: WoRMS Porifera
+ -
+  orcid: 0000-0002-9229-5541
+  given: Xavier
+  family: Turon
+  email: xturon@ceab.csic.es
+  note: WoRMS Ascidiacea
+ -
+  given: Seth
+  family: Tyler
+  email: styler@maine.edu
+  note: WoRMS Turbellarians
+ -
+  family: UCD Community
+  note: UCD
+ -
+  orcid: 0000-0001-6194-4927
+  given: Peter
+  family: Uetz
+  city: Richmond
+  state: VA
+  country: US
+  note: ReptileDB
+  address: "Richmond, VA, United States of America"
+  organisation: Virginia Commonwealth University
+ -
+  orcid: 0000-0002-9185-6378
+  given: Jonah M.
+  family: Ulmer
+  state: PA
+  country: US
+  note: Sepidiini tribe
+  address: "PA, United States of America"
+  organisation: Pennsylvania State University
+ -
+  given: Jean
+  family: Vacelet
+  email: info@marinespecies.org
+  note: WoRMS Porifera
+ -
+  given: Daniel
+  family: Vachard
+  note: WoRMS Foraminifera
+ -
+  given: Wim
+  family: Vader
+  email: info@marinespecies.org
+  note: WoRMS Amphipoda
+ -
+  orcid: 0009-0005-8932-6641
+  given: Georgina
+  family: Valls Domedel
+  email: gevado@noc.ac.uk
+  note: WoRMS Amphipoda
+ -
+  orcid: 0000-0003-2712-3433
+  given: Xander
+  family: Van der Burgt
+  note: WCVP-Fabaceae
+ -
+  given: Bart
+  family: Vanhoorne
+  city: Oostende
+  country: BE
+  note: Information Systems Group
+  address: "Oostende, Belgium"
+  organisation: Vlaams Instituut voor de Zee (VLIZ)
+ -
+  orcid: 0000-0002-9644-0566
+  given: Mohammad
+  family: Vatanparast
+  note: WCVP-Fabaceae
+ -
+  given: Tristan
+  family: Verhoeff
+  email: tristan.verhoeff@utas.edu.au
+  note: WoRMS Brachiopoda
+ -
+  given: Ronald
+  family: Vonk
+  note: WoRMS Amphipoda
+ -
+  given: Risto
+  family: Väinölä
+  email: risto.vainola@helsinki.fi
+  note: WoRMS Amphipoda
+ -
+  given: Genefor
+  family: Walker-Smith
+  email: gwalker@museum.vic.gov.au
+  note: WoRMS Leptostraca
+ -
+  orcid: 0000-0002-2368-9408
+  given: T. Chad
+  family: Walter
+  email: walterc@si.edu
+  note: WoRMS Copepoda
+ -
+  orcid: 0000-0002-7775-5300
+  given: Nina
+  family: Wambiji
+  city: Mombasa
+  country: KE
+  note: Global Team
+  address: "Mombasa, Kenya"
+  organisation: Kenya Marine and Fisheries Research Institute
+ -
+  orcid: 0000-0001-5390-8993
+  given: Dominic
+  family: Wanke
+  rorid: 05k35b119
+  department: Entomology
+  city: Stuttgart
+  state: Baden-Württemberg
+  country: DE
+  email: dominic.wanke@smns-bw.de
+  url: http://www.naturkundemuseum-bw.de/
+  note: Geometridae
+  address: "Stuttgart, Baden-Württemberg, Germany"
+  organisation: Staatliches Museum für Naturkunde Stuttgart
+ -
+  orcid: 0000-0002-6901-1168
+  given: Les
+  family: Watling
+  email: watling@maine.edu
+  note: WoRMS Cumacea
+ -
+  given: Haylee
+  family: Weaver
+  department: Department of the Environment
+  city: Canberra
+  country: AU
+  note: Global Team
+  address: "Canberra, Australia"
+  organisation: Australian Government
+ -
+  given: J.
+  family: Webb
+  note: FADA Ephemeroptera
+ -
+  given: W.C.
+  family: Welbourn
+  note: Mites GSD Tenuipalpidae
+ -
+  given: Christopher
+  family: Whipps
+  email: cwhipps@esf.edu
+  note: WoRMS Myxozoa
+ -
+  given: Kristine
+  family: White
+  email: white.kristinen@gmail.com
+  note: WoRMS Amphipoda
+ -
+  orcid: 0000-0003-4029-5387
+  given: Nicholas
+  family: Wilding
+  note: WCVP-Fabaceae
+ -
+  given: Gary
+  family: Williams
+  email: gwilliams@calacademy.org
+  note: WoRMS Octocorallia
+ -
+  given: Annette J.G.
+  family: Wilson
+  country: AU
+  note: WWW; WWW
+  address: Australia
+ -
+  orcid: 0000-0002-8634-8790
+  given: Peter
+  family: Wing
+  rorid: 039zvsn29
+  city: London
+  country: GB
+  url: https://www.nhm.ac.uk/
+  note: GLI
+  address: "London, United Kingdom"
+  organisation: Natural History Museum
+ -
+  orcid: 0000-0002-3939-9296
+  given: Sophie
+  family: Winitsky
+  note: WCVP-Fabaceae
+ -
+  given: Christopher C.
+  family: Wirth
+  city: Flagstaff
+  state: AZ
+  country: US
+  note: Sepidiini tribe
+  address: "Flagstaff, AZ, United States of America"
+  organisation: Nortern Arizona University
+ -
+  orcid: 0000-0002-0682-9034
+  given: Martin
+  family: Wojciechowski
+  note: WCVP-Fabaceae
+ -
+  given: Simon
+  family: Woodman
+  country: AU
+  note: WWW
+  address: Australia
+ -
+  family: World Spider Catalog
+  note: WSC
+ -
+  given: Joana
+  family: Xavier
+  email: joanarxavier@gmail.com
+  note: WoRMS Porifera
+ -
+  orcid: 0000-0001-7093-9564
+  given: Tingshuang
+  family: Yi
+  note: WCVP-Fabaceae
+ -
+  given: Mathew
+  family: Yoder
+  city: Champaign
+  state: IL
+  country: US
+  note: TaxonWorks liaison
+  address: "Champaign, IL, United States of America"
+  organisation: Illinois Natural History Survey
+ -
+  given: Dicky Sick Ki
+  family: Yu
+  email: dickyyu@gmail.com
+  note: Taxapad Ichneumonoidea
+  organisation: Taxapad project
+ -
+  orcid: 0000-0002-0824-7804
+  given: Nikolai
+  family: Yunakov
+  rorid: 01xtthb56
+  department: "Natural History Museum, Zoology"
+  city: Oslo
+  country: "NO"
+  email: n.yunakov@gmail.com
+  note: Entiminae
+  address: "Oslo, Norway"
+  organisation: University of Oslo
+ -
+  given: J.
+  family: Zahniser
+  note: 3i Auchenorrhyncha
+ -
+  given: Wolfgang
+  family: Zeidler
+  email: wolfgang.zeidler@samuseum.sa.gov.au
+  note: WoRMS Amphipoda
+ -
+  orcid: 0000-0002-4528-1382
+  given: Rong
+  family: Zhang
+  note: WCVP-Fabaceae
+ -
+  given: Z.Q.
+  family: Zhang
+  note: Animal Biodiversity
+ -
+  given: F.
+  family: Zinetti
+  note: Brentids
+ -
+  given: Jean-Loup
+  family: d'Hondt
+  email: dhondt@mnhn.fr
+  note: WoRMS Gastrotricha
+ -
+  given: G.J.
+  family: de Moraes
+  note: Mites GSD Phytoseiidae; Mites GSD Tenuipalpidae
+ -
+  orcid: 0000-0003-3555-3564
+  given: Ana Beatriz Ramos
+  family: de Oliveira
+  department: Biofísica
+  city: Rio de Janeiro
+  state: RJ
+  country: BR
+  email: anabeatrizramosdeoliveira@gmail.com
+  note: WCO
+  address: "Rio de Janeiro, RJ, Brazil"
+  organisation: Universidade do Estado do Rio de Janeiro (UERJ)
+ -
+  orcid: 0000-0002-7985-5604
+  given: Nicole
+  family: de Voogd
+  email: nicole.devoogd@naturalis.nl
+  note: WoRMS Porifera
+ -
+  orcid: 0000-0001-9865-6099
+  given: M. Guadalupe
+  family: del Río
+  rorid: 03cqe8w59
+  department: "Entomology Division, Museo de La Plata"
+  city: La Plata
+  state: Buenos Aires
+  country: AR
+  email: gdelrio@fcnym.unlp.edu.ar
+  url: www.researchgate.net/profile/Maria-Del-Rio-3
+  note: Entiminae
+  address: "La Plata, Buenos Aires, Argentina"
+  organisation: "Consejo Nacional de Investigaciones Científicas y Técnicas, National\
+    \ University of La Plata"
+ -
+  given: Ton
+  family: van Haaren
+  email: tonvanhaaren@eurofins.com
+  note: WoRMS Oligochaeta
+ -
+  given: E.J.
+  family: van Nieukerken
+  note: Nepticuloidea
+ -
+  given: Leen
+  family: van Ofwegen
+  note: WoRMS Octocorallia
+ -
+  given: Rob
+  family: van Soest
+  email: Rob.vanSoest@naturalis.nl
+  note: WoRMS Porifera; WoRMS Thaliacea
+ -
+  orcid: 0000-0002-2206-3745
+  given: Ozan
+  family: Şentürk
+  note: WCVP-Fabaceae
+ -
+  note: ITIS
+  organisation: ITIS
+ -
+  note: ICTV MSL
+  organisation: International Committee on Taxonomy of Viruses (ICTV)
+ -
+  note: WCVP-Fabaceae
+  organisation: Legume Phylogeny Working Group (LPWG)
+ -
+  note: PaleoBioDB
+  organisation: Paleobiology Database contributors
+ -
+  email: taxwg@worldfloraonline.org
+  url: http://www.worldfloraonline.org
+  note: WFO Pinopsida
+  organisation: World Flora Online
+publisher:
+  city: Amsterdam
+  country: NL
+  address: "Amsterdam, Netherlands"
+  organisation: Catalogue of Life
+keyword: []
+geographicScope: Global
+taxonomicScope: Biota
+confidence: 4
+completeness: 80
+license: cc by
+url: https://www.checklistbank.org/dataset/303642
+source: []
+notes: Created by ProjectRelease#301 2fe8b58b-0c11-4ca2-9291-5d4fa1f865ac.
