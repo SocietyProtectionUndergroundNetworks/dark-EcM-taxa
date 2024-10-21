@@ -56,23 +56,10 @@ Both files are included in this repo.
 
     i.e. there were 155,869 accepted and provisionally accepted species names, and 123,383 synonyms and ambiguous synonyms
 
-3. To get a list of all the synonyms, along with their (parent) accepted names in one row:
+3. Look for ECM genera names in both NameUsage.tsv and NameUsage_synonym_resolved.tsv:
 
     ```
-    tsvtk join -f "2;1" \
-      <(tsvtk filter2 -f '$col:rank=="species" && $col:status =~ "synonym"' NameUsage.tsv) \
-      <(tsvtk filter2 -f '$col:rank=="species" && $col:status !~ "synonym"' NameUsage.tsv) \
-    > NameUsage_synonym_resolved.tsv
-    ```
-
-4. Look for ECM genera names in both NameUsage.tsv and NameUsage_synonym_resolved.tsv:
-
-    ```
-    perl -plne 's/^/^/; s/$/\\s/' ../ECM_genera2.csv \
-    | tsvtk grep -r -f 5 -P - NameUsage_synonym_resolved.tsv \
-    | tsvtk cut -f2,7,8,9,10,11 -U > ECM_synonym_match.tsv
-
-    perl -plne 's/^/^/; s/$/\\s/' ../ECM_genera2.csv \
+    perl -plne 's/^/^/; s/$/\\s/' ECM_genera2.csv \
     | tsvtk grep -r -f 5 -P - \
         <(tsvtk filter2 -f '$col:rank=="species" && $col:status !~ "synonym"' NameUsage.tsv) -U \
     > ECM_accepted_match.tsv
@@ -81,11 +68,3 @@ Both files are included in this repo.
     The `perl -plne 's/^/^/; s/$/\\s/'` bit ensures that the ECM genera names are turned into a regular expression which will only match a Genus name and not part of a genus name or part of a specific name.
     
     This list is then passed to the `tsvtk grep` command where `-r` specifies regular expressions on field `-f 5` and `-P -` says take the patterns from the stdin.
-
-5. Collate the matches from both lists, ensuring no names are duplicated:
-
-    ```
-    cat ECM_*match.tsv \
-    | sort | uniq | cut -f5 | sort \
-    > ECM_species.tsv
-    ```
