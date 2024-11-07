@@ -11,7 +11,7 @@ Files:
 Code and output used to estimate the number of EcM fungal species in the Catalog of Life
 
 Files:
--"README.md": Full instrcutions for dowloading and filtering all data
+- "README.md": Full instrcutions for dowloading and filtering all data
 - "ECM_genera2.csv": The list of 327 EcM fungal genera from FungalTraits v.1.1
 - "NameUsage.tsv": List of all fungi names (accepted and synonyms) downloaded from the Catalogue of Life
 - "metadata.yaml": Metadata from Catalogue of Life download
