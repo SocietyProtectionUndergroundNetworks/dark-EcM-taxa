@@ -1,6 +1,3 @@
-# dark-taxa
-Data accompanying dark taxa paper
-
 ## Estimating the number of named EcM fungal species in the Catalog of Life
 
 ### Software needed:
