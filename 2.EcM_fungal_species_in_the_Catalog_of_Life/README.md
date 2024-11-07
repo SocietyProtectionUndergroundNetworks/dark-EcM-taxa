@@ -65,3 +65,6 @@ Both files are included in this repo.
     The `perl -plne 's/^/^/; s/$/\\s/'` bit ensures that the ECM genera names are turned into a regular expression which will only match a Genus name and not part of a genus name or part of a specific name.
     
     This list is then passed to the `tsvtk grep` command where `-r` specifies regular expressions on field `-f 5` and `-P -` says take the patterns from the stdin.
+
+### Output
+The output file containes 13,961 species, and is included as [ECM_accepted_match.tsv](ECM_accepted_match.tsv) 
