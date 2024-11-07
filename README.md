@@ -10,7 +10,12 @@ Files:
 ### 2.EcM_fungal_species_in_the_Catalog_of_Life
 Code and output used to estimate the number of EcM fungal species in the Catalog of Life
 
-Files:?
+Files:
+-"README.md": Full instrcutions for dowloading and filtering all data
+- "ECM_genera2.csv": The list of 327 EcM fungal genera from FungalTraits v.1.1
+- "NameUsage.tsv": List of all fungi names (accepted and synonyms) downloaded from the Catalogue of Life
+- "metadata.yaml": Metadata from Catalogue of Life download
+- "ECM_accepted_match.tsv": Output file containing the final list of species used
 
 ### 3.EcM_fungal_species_from_Australia
 Code and data used to download/extract the number of named EcM fungal species that have been recorded in Australia from the National Species List, GBIF, GlobalFungi v.5, and the Global Soil Mycobiome consortium (GSMc). 
