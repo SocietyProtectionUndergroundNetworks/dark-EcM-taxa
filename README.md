@@ -23,7 +23,7 @@ Files:
 Raster layers of total EcM fungal richness, dark taxa EcM richness, percentage dark taxa, and the dark taxa research priority metric plotted in Figure 3.
 
 Files:
--	“Figure_3_rasters.tif”: raster layers (equal earth projection, 30 arc-second resolution) of the maps presented in Figure 3.
+-	“Figure_3_rasters.tif”: raster layers (equirectangular projection, 30 arc-second resolution) of the maps presented in Figure 3.
 
 ### 5.EcM_host_plant_family_distribution_maps
 Code and data used to create the EcM host plant family distribution maps.
