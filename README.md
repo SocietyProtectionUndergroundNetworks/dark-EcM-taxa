@@ -5,7 +5,7 @@ Data used to create Figure 1.
 
 Files:
 -	“GFv5_EcM_unassigned_per_sample.csv”: Metadata of the 39,495 samples in the GlobalFungi v.5 dataset, including the proportion of EcM fungal OTUs that were assigned and unassigned to species-level identities.
--	“GFv5_EcM_order_unassigned_continents.csv”: breakdown of the proportion of EcM fungal OTUs assigned and unassigned to species-level by fungal orders and continent (donut plots in Figure 1).
+-	“GFv5_EcM_order_unassigned_continents.csv”: breakdown of the proportion of EcM fungal OTUs assigned and unassigned to species-level by fungal orders and continents (donut plots in Figure 1).
 
 ### 2.EcM_fungal_species_in_the_Catalog_of_Life
 Code and output used to estimate the number of EcM fungal species in the Catalog of Life
