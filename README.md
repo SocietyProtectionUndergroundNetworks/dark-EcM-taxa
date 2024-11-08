@@ -8,7 +8,7 @@ Files:
 -	“GFv5_EcM_order_unassigned_continents.csv”: breakdown of the proportion of EcM fungal OTUs assigned and unassigned to species-level by fungal orders and continents (donut plots in Figure 1).
 
 ### 2.EcM_fungal_species_in_the_Catalogue_of_Life
-Code and output used to estimate the number of EcM fungal species in the Catalogue of Life
+Code and output used to estimate the number of EcM fungal species in the Catalogue of Life.
 
 Files:
 - "README.md": Full instrcutions for dowloading and filtering all data
