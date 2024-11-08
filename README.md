@@ -22,7 +22,7 @@ Code and data used to download/extract the number of named EcM fungal species th
 
 Files:
 -	“ECM_species_names_Australia.r”: R code used to download and summarise EcM fungal species recorded in Australia, and to create Figure 2.
--	“ECM_final_species_list_w_UNITE.csv”: The file of EcM fungal species names present in the different databases used to create Figure 2.
+-	“ECM_final_species_list_w_UNITE.csv”: The output file from the R code of EcM fungal species names present in the different databases used to create Figure 2.
 
 ### 4.Dark_taxa_richness_maps
 Raster layers of total EcM fungal richness, dark taxa EcM richness, percentage dark taxa, and the dark taxa research priority metric plotted in Figure 3.
