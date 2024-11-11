@@ -1,6 +1,6 @@
 ## Data and code used to conduct the analyses and create the figures for van Galen et. al. (2025) “The biogeography and conservation of Earth’s ‘dark’ ectomycorrhizal fungi”
 
-### 1.Proportion_of_EcM_fungal_OTUs_unassigned (will become availabe shortly, in time for publication)
+### 1.Proportion_of_EcM_fungal_OTUs_unassigned
 Data used to create Figure 1.
 
 Files:
