@@ -429,7 +429,7 @@ crs(template) <-  gsub("LENGTHUNIT\\[\"kilometre\",1000", "LENGTHUNIT[\"metre\",
 ext(template) <- ext(template) * 1000
 
 # just doing 200 and 150, because that's what we decided to use
-for(i in c(2:length(family.list))){
+for(i in c(1:length(family.list))){
   print(family.list[i])
   for(radius in c(150000)){ 
     for(dist.thresh in c(200)){
@@ -510,14 +510,14 @@ Ticodendraceae_freq
 family.list=readRDS("./data_families/family.list.rds")
 template=rast("original_maps/ectomycorrhizal_richness_Classified_MultibandImage_final.tif")["ectomycorrhizal_richness_Ensemble_mean"] # equirectangular template
 
-for(i in c(2:length(family.list))){
+for(i in c(1:length(family.list))){
   print(family.list[i])
   for(radius in c(100000, 150000)){ # not doing the 50km buffer because decided not to use it
     for(dist.thresh in c(Inf, 500, 200)){
       print(paste(radius,dist.thresh))
       print(Sys.time())
       data=rast(paste0("./data_families/family_rasters/raster_",gsub(" ", "_", family.list[i]),"_thresh",dist.thresh,"km_buffer",radius/1000,"km.tif"))
-      data_repro=terra::project(data,template)
+      data_repro=terra::project(data,template,method="near") # near for categorical
       writeRaster(data_repro, filename=paste0("./data_families/family_rasters/raster_",gsub(" ", "_", family.list[i]),"_thresh",dist.thresh,"km_buffer",radius/1000,"km_equiRec.tif"),overwrite=TRUE) # save as tif
     }
   }
