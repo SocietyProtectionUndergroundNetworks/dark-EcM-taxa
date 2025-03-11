@@ -25,10 +25,12 @@ Files:
 -	“ECM_final_species_list_w_UNITE.csv”: The output file from the R code of EcM fungal species names present in the different databases used to create Figure 2.
 
 ### 4.Dark_taxa_richness_maps
-Raster layers of total EcM fungal richness, dark taxa EcM richness, percentage dark taxa, and the dark taxa research priority metric plotted in Figure 3.
+Raster layers of dark taxa EcM richness, percentage dark taxa, and the dark taxa research priority metric plotted in Figure 3. R code used to conduct the SHAP analysis and make Figures 3, 4 and 5 is also provided.
 
 Files:
--	“Figure_3_rasters.tif”: raster layers (equirectangular projection, 30 arc-second resolution) of the maps presented in Figure 3.
+-	“Figure_3_rasters.tif”: raster layers (equirectangular projection, 30 arc-second resolution) of the maps presented in Figure 3. The total EcM richness map (Figure 3A) must be obtained from Van Nuland et. al. (2025) (see Figure 3 caption for citation).
+-	“SHAP_and_Fig_3_4_5.r”: R code used to conduct the SHAP analysis and make Figures 3, 4, and 5
+-	“SHAP_training_data.csv”: values from the 1,000 randomly selected grid cells used to conduct the SHAP analysis.
 
 ### 5.EcM_host_plant_family_distribution_maps
 Code and data used to create the EcM host plant family distribution maps.
